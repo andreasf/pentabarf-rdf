@@ -1,0 +1,1937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <conference>
+    <title>Chaos Communication Camp 2011</title>
+    <subtitle>Project Flow Control</subtitle>
+    <venue>Luftfahrtmuseum Finowfurt</venue>
+    <city>Finowfurt</city>
+    <start>2011-08-10</start>
+    <end>2011-08-14</end>
+    <days>5</days>
+    <release>Version 1.3</release>
+    <day_change>06:00</day_change>
+    <timeslot_duration>00:30</timeslot_duration>
+  </conference>
+  <day date="2011-08-10" index="1">
+    <room name="Kourou">
+      <event id="4423">
+        <start>00:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>ihr_kotzt_mich_alle_an</slug>
+        <title>We suck.</title>
+        <subtitle>We have problems. But you don't even notice.</subtitle>
+        <track>Community</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>What we suck at, why we suck at it, and some ideas on fixing that.</abstract>
+        <description>Es muss um 1990 gewesen sein, als ich zuf&#228;llig in meiner Dorfb&#252;cherei &#252;ber die Hackerbibeln gestolpert bin. Seitdem ist der CCC eine f&#252;r mich gestorbene Familie. Und das k&#246;nnte mir egal sein, ist es aber leider nicht.
+Auch wenn ich keinen Bock drauf hab, irgendwer muss es ja machen. Dass wir Probleme haben, und welche, scheint ja irgendwie in den letzten Jahrzehnten in Vergessenheit geraten zu sein. Dass sich aus Problemen Ziele ableiten lassen, also dass es durchaus Ziele gibt, sowieso.
+
+(presentation is in English; ask someone to translate this primer for you)</description>
+        <persons>
+          <person id="2939">Moritz Bartl</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4553">
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Kourou</room>
+        <slug>opening</slug>
+        <title>Opening Event</title>
+        <subtitle>Welcome to the Chaos Communication Camp 2011</subtitle>
+        <track>Misc</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4551">
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Kourou</room>
+        <slug>hackers_in_space</slug>
+        <title>Hackers in Space</title>
+        <subtitle>A Modest Proposal for the Next 23 Years</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Four years ago, the global Hackerspace movement was kicked off at the 2007 CCCamp, having led to a worldwide, decentralised, collaborative network of hackerspaces on every continent. Fueled by the DIY and hacker spirit, we have come a long way. Now that we have the infrastructure in place, what do we do with it? In times when nation states abandon their space programs, we see the exploration of outer space as our goal for the coming decades.</abstract>
+        <description>We propose a three phase Hacker Space program we feel can be accomplished in the next 23 years. Phase one is the launch of an open, free and globally accessible sattelite-based network built by hackers as the ultimate defense against terrestrial censorship of the Internet. If that sounds too easy, let's go to phase two: Put a hacker into orbit. This will be the preparation for phase three. By 2034, we plan on landing a hacker on the moon.
+
+Join us! Participate! Bring your own space suit and inspiration!</description>
+        <persons>
+          <person id="13">Jens Ohlig</person>
+          <person id="18">Lars Weiler</person>
+          <person id="1476">Nick Farr</person>
+        </persons>
+        <links>
+          <link href="http://events.ccc.de/camp/2011/wiki/Call_for_Space_Program">Space Program of the Hacker Scene</link>
+        </links>
+      </event>
+      <event id="4436">
+        <start>13:30</start>
+        <duration>01:30</duration>
+        <room>Kourou</room>
+        <slug>rocket_propulsion</slug>
+        <title>Rocket propulsion basics</title>
+        <subtitle>An introduction to rocket engines and their application for space travel</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>We will discuss the basic principles of thermochemical engines and their application for rocket propulsion. The three main types of chemical rocket engines, i.e. solid, liquid, and hybrid, will be presented and compared.</abstract>
+        <description>The main subsystem of every space flight system is the propulsion system also called the rocket engine. The present paradigm is the thermochemical engine that produces thrust by expanding hot gas produced by an exothermic reaction through a nozzle. Present rocket engine designs can be categorized in three classes dependent on the state of the propellant(s), i.e. solid, liquid or hybrid. We will sketch the underlying physical processes present in all engine designs necessary to get a basic understanding of the different approaches and compare their specific advantages and drawbacks.</description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4442">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>satellite_communications</slug>
+        <title>Introduction to Satellite Communications</title>
+        <subtitle>the joy and challange of operating satellite communication systems; illustrated with postage stamps</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>In this lecture, I'll cover some satellite communication basics like pros and cons of different orbits, the characteristics of a satellite communications link and the difficulties regarding noise and attenuation when handling high frequency satellite communication systems.</abstract>
+        <description>After a brief introduction to the history and development of satellites in general, we'll talk about different orbits and their characteristics regarding space conditions. After that, we'll have a look at a typical satellite communications link including channel characteristics, communications equipment and frequency considerations, before moving on to access techniques. If there's still time, there might be a short part about satellite navigation, too.
+
+And yes, to meet our need for pretty pictures, thematically related postage stamps (partly from a private collection) will be used to illustrate the topic.</description>
+        <persons>
+          <person id="3308">Irmi Meister</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4505">
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>strahlung_im_weltall</slug>
+        <title>Strahlung im Weltall</title>
+        <subtitle>Hell yeah, it's radiation science!</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Wer eine Mission zum Mond plant, muss sich &#252;ber das, was die Umgebung dort bereith&#228;lt, Gedanken machen. Neben Temperaturen von -180 bis +120&#176; C ist Strahlung eine der gr&#246;&#223;ten Herausforderungen bei einer derartigen Mission. So genannte Single Event Upsets (SEU) k&#246;nnen in einer Speicherzelle Datenbits flippen. Mit diesen umgekippten Bits muss man dann zurechtkommen. </abstract>
+        <description>Im Talk wird erkl&#228;rt, welche Effekte auftreten k&#246;nnen, wenn ein geladenes Teilchen auf Elektronik trifft. Solche Single Event Effects beeinflussen den Verlauf einer Weltraummission ungemein. Den Schwerpunkt des Talks bilden SEUs, bei denen Bits in Speicherzellen umkippen k&#246;nnen. 
+* Wie entstehen SEUs?
+* Welche Auswirkungen hat es, wenn ein Bit geflippt ist?
+* Wie kann man verhindern, dass eine Mission wegen eines SEUs scheitert?
+* Und was soll das &#252;berhaupt mit dieser Mondmission da?</description>
+        <persons>
+          <person id="3340">Karsten Becker</person>
+        </persons>
+        <links>
+          <link href="http://">http://</link>
+          <link href="http://twitter.com/#!/ptscientists">PTS Twitter</link>
+          <link href="https://www.facebook.com/PartTimeScientists">Evil Facebook Seite</link>
+          <link href="http://ptscientists.com">PTS Team Seite</link>
+        </links>
+      </event>
+      <event id="4493">
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>space_federation</slug>
+        <title>Space Federation</title>
+        <subtitle>Linking and Launching Earth-Based Hackerspaces</subtitle>
+        <track>Community</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Our mission is to provide financial and organizational support to open communities in shared physical spaces who use innovative methods and technology in hands-on education. We'll speak to the global community about the progress in America.</abstract>
+        <description>Hacker and maker spaces are where people go to teach and learn their passions. Even as each space typically shares a common set of values &#8211; transparency, hands-on, collaboration &#8211; they are all tremendously different in terms of structure, funding sources, and sustainability. While a huge movement to create new hacker and maker spaces has been catalyzed in the United States, in part because of the Hackerspace Design Patterns release from the 2007 CCCamp, the sustainability of these spaces and the movement they represent is far from certain.
+
+The School Factory, a non-profit organization that formed an early American hackerspace/makerspace called Bucketworks in 2002, has been extrapolating the models and values of these spaces into programming that helps communities understand and take advantage of potential in the maker and hacker movements. Banding together, four established spaces have launched the Space Federation, which provides a sharing of best practices and fiscal infrastructure amongst each other and to interested communities. By linking our resources we are able to help other facilitators launch and sustain their own spaces. Resources take the form of fiscal sponsorship, a governance and taxation support model for donations that gives these spaces non-profit status without the overhead and delays of supporting their own legal status. Guidelines and programming that help spaces build healthy community by connecting their members on a personal level are also a focus. This is not a franchising of spaces but a celebration of individuation while ensuring the administrivia which often kills spaces is taken care of efficiently and effectively.
+
+We are a segue from the current culture into a new world of self-empowerment, involved communities, and free sharing of knowledge. But these ideals must exist in the current paradigm until they become the norm. In short, we still have to figure out how to pay rent.
+
+In the meantime, American schools and libraries are failing. Conservative government officials are eliminating teachers and setting standards which the current educational system cannot meet. Schools are decreasingly preparing students for work within a global economy, and struggle to stay apace with the technological and social advances brought about by the dedicated volunteer work of the open source community. 
+
+Similarly, public libraries in America struggle to retain relevance when books are available online, and rules require silence. The community-building purpose of a library, and the free access to knowledge it represents, is an idea at risk in a modern political culture of conservatism. Low income and smaller communities will pay the price of lost innovation and learning for their citizens.
+
+Globally, countries wildly differ in terms of their legal structures and cultural support for hackerspaces and makerspaces. Education systems are equally variable, in some nations still biased towards certain genders, age groups, and skill domains.
+
+We believe that hackerspaces and their relatives are primordial seeds in a new system of global learning and education that spans generations, interests, and political fashions. These communities represent a low-cost, highly effective alternative to overly burdensome systems of public learning and the public distribution of knowledge and potential. It may take many generations for these environments to have a lasting impact on civilization. If we start good conversations with governments, communities, and businesses today - along with amongst ourselves - we can ensure that every possible value these spaces can contribute to global society is developed for the longer term.
+
+Challenges Faced by the Hackerspace and Makerspace Movement
+Clique-ish social communities
+Financial challenges
+Difficult to insure
+Unsympathetic landlords
+Challenging infrastructure requirements
+Not well understood by general public
+Dis-integrative structures
+Zoning and classification
+&#8220;but they&#8217;ll see the big board&#8221; - the perceived threat of transparency 
+Inconsistent cultural norms
+Informal environments create barriers to entry
+
+
+Questions we would like to discuss with the CCC community:
+How does the hackerspace/makerspace movement look globally? In America? What has changed since 2007? Since 2002? 
+What spaces are in the Space Federation? What are their experiences?
+What is the Space Federation?
+What is the School Factory?
+What is the Space Kit? How is it related to the Hackerspace Design Patterns presentation?
+What do we have in the Space Kit so far? - we have the steps but need a way to take people through it. It includes more of things like how to assess a neighborhood and local government, less of what tools you should have. What does it still need?
+Why is this important? (not just in USA but globally)
+What does having global concept of spaces like these mean for future humanity?
+What has been working?
+What hasn&#8217;t been working?
+What do we need help with?
+
+
+Conclusion:
+We would like to engage the CCC community in an open discussion on these questions, and facilitate a separate co-working session to further develop tools and models that will extend the potential of the hackerspace and makerspace movement across the globe. There will be LEGOs.</description>
+        <persons>
+          <person id="3385">James Carlson</person>
+          <person id="3331">willowbl00</person>
+        </persons>
+        <links>
+          <link href="http://scribd.com/doc/9897224/1003Building-a-Hacker-Space">Building a Hacker Space reference</link>
+          <link href="http://schoolfactory.org">School Factory</link>
+          <link href="http://bucketworks.org">Bucketworks</link>
+          <link href="http://sector67.org">Sector67</link>
+          <link href="http://jigsawrenaissance.org">Jigsaw Renaissance</link>
+          <link href="http://pumpingstationone.org">Pumping Station: One</link>
+          <link href="http://prezi.com/bq3elir5jb5b/tedx-madison/">TEDx talk - similar to what we'd be doing here</link>
+          <link href="http://prezi.com/tokb7x7zc0mf/federation-nutshell-video/">Space Federation short talk</link>
+          <link href="http://youtube.com/watch?v=sTJjxRXIm_A">TEDx</link>
+        </links>
+      </event>
+      <event id="4486">
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>building_and_giving_away</slug>
+        <title>Building and Giving Away: Motivations</title>
+        <subtitle></subtitle>
+        <track>Culture</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>What motivates people to create and freely distribute their works?  This presentation will draw on personal experience, research literature, and existing communities of those who build and give away.  Open source software, hardware, community building.</abstract>
+        <description>The presenter will draw upon over 20 years experience with Project Gutenberg, as well as numerous other activities in which the focus is on building (things, software, communities, infrastructure) and giving them away (free and open source software, free literature, and physical artifacts).  What motivates individuals to spend thousands of hours -- often in detriment to time spent with family, work, or other endeavors -- on activity which is primarily devoted to the well being of other people?  Often, other people who are not personally known.  Is there overlap in motivations for online communities versus volunteerism at the local level?  Can such behaviors be learned?  What motivates people to create and freely distribute their works?  This presentation will draw on personal experience, research literature, and existing communities of those who build and give away.  Open source software, hardware, community building.  Characterizations of different types of motivations, levels and types of involvement, and outcomes will be made.  Anomalies will be identified between individual values and targeted community outcomes, along with their sometimes disastrous impact on community identity-building or planning.  Different leadership styles, and their impacts on emerging communities of contributors, will be compared.  The presentation will draw some conclusions about how it might be possible to foster altruism in such communities, and to encourage increased interests in their outcomes.  The audience will be asked to contribute their own experiences, especially advice about what works and what doesn't work to foster new member involvement.  What are impediments to personal time investment, to sharing common goals, and to taking leadership roles?  What lifecycles, governance structures, and other characteristics of successful projects (both large and small scale) can we learn from?  We have seen hugely beneficial projects of all types where communities sprung up to support the building of things, software and ideas; we also have many examples of projects which did not seem to achieve their goals.  How might future builders learn from these past experiences?</description>
+        <persons>
+          <person id="3304">Greg Newby</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4564">
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>r0ket</slug>
+        <title>r0ket</title>
+        <subtitle>The CCC-Badge</subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>The r0ket is the badge for the Chaos Communication Camp 2011.</abstract>
+        <description>Besides being a shiny electronic name tag, the r0ket is an easy to use full featured microcontroller development board. We want to encourage you to tinker with your badge. Write your own software or build a pluggable hardware m0dul. Surprise the camp audience with your creative ideas! </description>
+        <persons>
+          <person id="2795">kiu</person>
+          <person id="2855">s</person>
+          <person id="101">Stefan 'Sec' Zehl</person>
+        </persons>
+        <links>
+          <link href="http://r0ket.badge.events.ccc.de/">r0ket wiki</link>
+          <link href="http://r0ket.soup.io/">r0ket soup</link>
+        </links>
+      </event>
+      <event id="4418">
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>cyberpeace_and_datalove</slug>
+        <title>Cyberpeace and Datalove</title>
+        <subtitle>How do we counter the memes of control?</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Governments and corporations craft powerful memes to justify their repressive policies, it is time for us to provide with solid countermeasures. Will we get "cyberwar", censorship, and repression of sharing, or impose that Internet remains the instrument of (cyber)Peace, (data)Love and (hackers)Unity? </abstract>
+        <description>The turn of 2010/2011 has been decisive for the ecology of the Internet, as well as for its perception in the eye of the general public. From Cablegate to the "Arab spring", it is now clear for everyone that Internet is the tool for freedom of expression and democratic participation. 
+
+At the same time, the violent attacks against Wikileaks, repression in the Arab countries, as well as the finalization of the ACTA agreement or the notion of a "civilized Internet" pushed by Nicolas Sarkozy clutter in our skies like a dense, dark storm. 
+
+Between the "eG8" and the G20, governments talk of cooperation and exceptional measures... In the name of an upcoming "cyberwar", control over the network they might obtain could become the perfect tool to restrict our freedoms.
+
+What is this "cyberwar" about anyway? Isn't it just a state of permanent war, like in Orwell's "1984", justifying the unjustifiable, beyond the rule of law?
+
+As these political and commercial attacks against a free, open, universal therefore neutral Internet intensify, citizens get more and more trained to react against legislative attacks, by coordinated advocacy. But when powerful memes are crafted in order to justify restrictions on our freedoms, how can we react?
+
+As diverse hacker communities loving the Internet and the flow of data, we must address mass manipulation and anti-democratic influence designed at imposing restriction of our freedoms.</description>
+        <persons>
+          <person id="1505">J&#233;r&#233;mie Zimmermann</person>
+        </persons>
+        <links>
+          <link href="http://lqdn.fr">La Quadrature du Net</link>
+        </links>
+      </event>
+    </room>
+    <room name="Baikonur">
+      <event id="4552">
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>openleaks</slug>
+        <title>OpenLeaks</title>
+        <subtitle>where leaking meets engineering</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>This talk will introduce the next phase of the OpenLeaks project. We will present a more detailed insight into the project and take you on a tour around the different OL subprojects. We will also announce the activities we are planning for this years camp.</abstract>
+        <description>This talk will introduce the next phase of the OpenLeaks project. Where last years congress was still too early, we would like to take the chance to present a more detailed insight into the project and its technicalities, and take you on a tour around the different subprojects OL is comprised of.
+
+We will also announce the activities we are planning for this years camp, including some workshops and a special surprise.</description>
+        <persons>
+          <person id="3351">OpenLeaks</person>
+        </persons>
+        <links>
+          <link href="http://openleaks.org">OpenLeaks homepage</link>
+          <link href="http://">http://</link>
+        </links>
+      </event>
+      <event id="4421">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>strong_encryption_of_credit_card_information</slug>
+        <title>Strong encryption of credit card information</title>
+        <subtitle>Attacks on common failures when encrypting credit card information</subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>The PCI DSS standard require strong cryptography or secure hashing as ways to protect cardholder information. But one important factor is missing; detailed instructions for how to correctly apply cryptography to credit card numbers.</abstract>
+        <description>The primary objective of the Payment Card Industry Data Protection Standard (PCI DSS) is to safeguard cardholder information such as the Primary Account Number (PAN) and the sensitive authentication data (CVV2, Track 1 and 2).  
+
+Chapter 3.4 deals with the details regarding encryption and key management.  
+
+&gt; 3.4 Render PAN unreadable anywhere it is stored (including on portable digital media, 
+&gt;     backup media, and in logs) by using any of the following approaches:
+&gt;       * One-way hashes based on strong cryptography
+&gt;       * Truncation
+&gt;       * Index tokens and pads
+&gt;       * Strong cryptography with associated key-management processes and procedures
+
+What constitutes strong cryptography is further detailed in the glossary and in the PCI SSC FAQ documents as well as in periodic communication to security assessors. But one important factor is missing from the communication; the modes of operation for the cryptographic primitives.  
+
+The PCI DSS glossary specifically mentions AES, 3DES, RSA, ECC, Elgamal and SHA1 as &#8220;industry-tested and accepted standards and algorithms for encryption&#8221; but fails to address important issues such as RSA padding and cipher block chaining for 3DES and AES.  
+
+The requirements are quite clear on the fact that encryption and hashing needs to be implemented properly, but gives little guidance to developers or assessors as to what strong cryptography actually means.
+
+There are at least three different scenarios where cardholder information appears to be protected in compliance with the standard but remains vulnerable if disclosed. This presentation describes attacks for common failure scenarios when encrypting credit card information.</description>
+        <persons>
+          <person id="1446">Torbj&#246;rn Lofterud</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4502">
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>is_this_the_mobile_gadget_world_we_created</slug>
+        <title>Is this the Mobile Gadget World We Created?</title>
+        <subtitle>The story of the world's first socially responsible mobile phone.</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>  The most ubiquitous device on the planet is arguably the mobile phone. Tragically, it is also a device built under some of the worst living and working conditions in the world. This is the story of a mission - To build the world's first ethical phone. </abstract>
+        <description>The most ubiquitous device on the planet is arguably the mobile phone. We use them, we need them, we get new ones every few years. Our old phones are either in a drawer, a landfill, or in the hands of those people in places like China and Brazil where old electronics are broken down or repurposed.  Meanwhile in many parts of one of the most troubled nations in the world, the minerals that make are new phones are being mined under some very questionable circumstances. From some of the worst labor conditions in the world comes the cobalt and other essential minerals that will one day be your iphone.  -- Is this how it simply has to be? -- A group in the Netherlands has embarked on an ambitious, risky, and little known quest - To build the world's first ethical phone. Are where did they start? In the Congo of course... </description>
+        <persons>
+          <person id="910">Bicyclemark</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4453">
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>stuff_you_dont_see_every_day</slug>
+        <title>Stuff you don't see - every day</title>
+        <subtitle>GNU Radio Internals - how to use the Framework</subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Software Defined Radio defines a new approach to analyze signals with software. With the flexibility of software SDR literally opened a new spectrum of hacking. 
+</abstract>
+        <description>However the internals of Digital Signal Processing, especially from the perspective of informatics and computer science, are hard to explore. The lecture delivers a case-study on how to analyze 802.15.4 (alias Zigbee, as an easy protocol) with USRPs (modular popular hardware for SDR) on a real-time protocol (for send time verification, sniffing etc.). Furthermore internals on DSP will be explained - as simple as possible. The intent is to also give a non-academic start point and to seed motivation to explore more advanced projects (like osmocom*). So practically the lecture explains what a Software Spectrum Analyzer or a Software Oscilloscope does: from a Hacker's perspective. It gives insight into a USRP(2) internals and goes into programming C++ and Python with GNU Radio. 
+
+All demo-analysis will remain within the ISM band. - No GSM/Tetra will be captured. It's about the SDR technology and its use-cases - for a clear and constructive adaption by the Hacker's community to assist interesting making projects (of home-automation devices using 802.15.4 e.g.). In many media articles - especially from last Chaos Congress - a misunderstanding can arise to reduce SDR to (GSM) attack scenarios while this is not the only/general use-case. The lecture however clearly aims to assist any intended understanding how the osmocom* implementations work - for example. Or other projects on cgran[1].
+
+[1] https://www.cgran.org/</description>
+        <persons>
+          <person id="1668">Marius Ciepluch</person>
+        </persons>
+        <links>
+          <link href="http://gnuradio.org/redmine/projects/gnuradio/wiki">GNU Radio</link>
+          <link href="http://www.complextoreal.com/chapters/mod1.pdf">About Modulations [pdf]</link>
+        </links>
+      </event>
+      <event id="4459">
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>transition_telecom</slug>
+        <title>Transition Telecom</title>
+        <subtitle>Telecommunications and networking during energy descent</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>We'll need to come to grips with the challenges that declining oil production and increasing temperatures present. This talk explores positive future scenarios for the world of networking and communications past the great global energy free-for-all.</abstract>
+        <description>"Business-as-usual" and "surely-they'll-think-of-something" scenarios are increasingly for dreamers. The time of perpetual growth is over and the cracks are beginning to show everywhere. But let's get past doom and gloom: there's a growing movement that acts to prepare themselves and their communities for "energy descent": cold turkey while kicking the oil habit. 
+
+Too many are stuck thinking the future is either going to be apocalyptic or very much like today. (Both futures conveniently have in common that you don't have to do all that much.)  In so-called Transition Towns, groups of inhabitants are working together to rethink the future of agriculture and land-use to effectively re-localize food, goods and services. All over the place, people are thinking, acting and (importantly) having a good time doing so.
+
+This talk will explore a number of future scenarios and try to assess the impact on the world of computers, networking and telecommunications. Most people in this transition movement are inspired (but not blinded) by technologies and methods from a time past. Modern communications technology has no set pre-industrial state to fall back on. But it would still be very nice if any future still featured a phone to call the fire brigade, not to mention as much of this internet thing as we can carry.
+
+So which technologies are resilient and which are brittle? What can we keep and what do we leave behind as energy consumption of everything becomes a design criterium, business models change, whole economies collapse and some central structures crumble? How do we best prepare for a variety of possible futures? And can we maybe have (even) more meaningful and fulfilling lives in the present by doing so? Needless to say our community has a defining role to play in figuring out the answers to these and other big questions in this field.</description>
+        <persons>
+          <person id="9">Frank Rieger</person>
+          <person id="235">Rop Gonggrijp</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4427">
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>the_blackbox_in_your_phone</slug>
+        <title>The blackbox in your phone</title>
+        <subtitle>Some details about SIM cards</subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>This talk sheds some light on a cellphone-component, that's inevitable, virtually unclonable and as closed as it gets: the SIM. The SIM can do a lot more than just user-authentication nowadays: the SIM Application Toolkit gives it control over your phone</abstract>
+        <description>Recently, location tracking in major smartphones caused quite a stir. Closed systems make discovering such unwanted behavior more difficult. While projects like osmocomBB aim at creating an open cellphone architecture, the SIM seems to be mostly inconsiderable and harmless.
+It's little known, that the SIM Application Toolkit (SAT) gives the SIM extensive control over the phone.
+Via the SAT, the SIM can obtain location information, monitor and redirect calls and send/receive short messages, as well as IP packets. The SIM-firmware can be updated over-the-air. Most of these features can even be used without the user noticing.
+Along with the mentioned SAT, this talk will illuminate the classic GSM SIM, as well as the 3G USIM altogether.
+After a quick introduction to smartcards in general, communication with the SIM will be explained in more detail. The most important SIM commands and files will be explained and how one can monitor communication with a SIM and inject arbitrary data into the session.</description>
+        <persons>
+          <person id="2637">hunz</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4504">
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>gprs_intercept</slug>
+        <title>GPRS Intercept</title>
+        <subtitle>Wardriving phone networks</subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>GPRS data networks provide the backbone for our mobile society. Just like their siblings, GSM networks, the GPRS infrastructure is often lacking an appropriate level of protection.</abstract>
+        <description>This talk introduces the concepts behind GPRS transmissions and illustrates how GPRS data can be sniffed. We will release tools to be used at the camp.</description>
+        <persons>
+          <person id="1317">Karsten Nohl</person>
+          <person id="3341">Luca Melette</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day date="2011-08-11" index="2">
+    <room name="Kourou">
+      <event id="4471">
+        <start>00:00</start>
+        <duration>00:30</duration>
+        <room>Kourou</room>
+        <slug>who_is_snitching_my_milk</slug>
+        <title>Who's snitching my milk?</title>
+        <subtitle>Nonlinear dynamics/analysis of vanishing bovine products in an office environment.</subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Nowadays many office environments offer small tea kitchens for their employees. From subjective experiences there seems to be a milk drain in these environments. However, fundamentel research is still missing.</abstract>
+        <description>Therefore, in this talk we will present experiments and the experimental setup to determine the volatility of milk in tea kitchens and possible causes. The experimental setup consists of a device for determining the amount of vanished milk (DDAVM), a device for counting fridge door openings (DCFDO) and a device for measuring the consumed electrical energy (DMCEE). The light diode based DCFDO is hidden in a regular yoghurt cup. 
+
+Additional to these measurements we will present some model canditates which are based on plausible psychological behavior of the employees. With innovative model discrimination techniques, model candidates are falsified by suggesting model-based experimental designs. 
+
+With these experiments and mathematical models we strongly believe to contribute to a better understanding of vanishing bovine products in office environments. This can help to predict the present state of milk in refrigerators, which leads to a more efficient milk consumption. 
+
+Further, deep insights into social-psycological interplays between colleagues may be extrapolated to generic properties of different societies. The snitching milk consumption curve may also hint, which kind of social system (e.g. communism, socialism, capitalism), people belong to.</description>
+        <persons>
+          <person id="3313">Andr&#233; Franz</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4406">
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>giving_great_workshops</slug>
+        <title>Giving Great Workshops</title>
+        <subtitle>You can create your own successful workshop</subtitle>
+        <track>Community</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Mitch Altman has taught well over 10,000 people to solder and make cool things at workshops around the world. Drawing from his experiences, this lecture will show you how to create and give your own successful workshops about what you know.</abstract>
+        <description>We all know something that others can benefit from, that others want to learn.  A workshop is a gratifying way to share what you know with others.
+
+One of the reasons for the increasing popularity of Maker Faires, hacker conferences, and hackerspaces is that they all provide workshops.  Workshops are not only fun, but they work.  They incorporate learning-by-doing, a very effective method of teaching, learning, and sharing knowledge and skills.  They also make use of the community that forms during the workshop, where all participants become available to help one another.  Creation within community is a very compelling combination that we can all make use of and enjoy.  This is what a successful workshop is all about.
+
+In this lecture Mitch Altman will share what he has learned from his experience giving workshops around the world for the last few years.  Although he teaches people how to solder and to make cool things with microcontrollers, what Mitch has learned about giving workshops is applicable to giving a workshop on just about any topic.
+
+Topics included:  Choosing an objective that can be accomplished in the allotted time, including setup and cleanup.  Choosing a topic that is appropriate for a workshop format, where all participants can create something.  Making the workshop an enjoyable process for all.  Building confidence and enthusiasm that will be shared with others during and after the workshop.  Making your workshop appear effortless and easy to the participants.  Preparation needed before planning the workshop.  Taking your workshop on the road.</description>
+        <persons>
+          <person id="1268">Mitch</person>
+        </persons>
+        <links>
+          <link href="http://www.nycresistor.com/2010/01/15/mitch-altmans-electronics-workshop-129-8pm/">NYC Resistor workshop, USA</link>
+          <link href="http://www.flickr.com/photos/jonlesser/4305081293/">Baltimore Node workshop, USA</link>
+          <link href="http://www.tog.ie/2010/03/electronics-workshop-with-mitch-altman-and-jimmie-p-rodgers/">TOG workshop, Ireland</link>
+          <link href="http://harkopen.com/news/workshop-mitch-altman">Harkopen workshop, Romania</link>
+        </links>
+      </event>
+      <event id="4440">
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>solid_rocket_engines</slug>
+        <title>Solid rocket engines</title>
+        <subtitle>Design and implementation of engines with solid propellant</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>We will present the design and construction of a solid rocket motor and discuss results from recent test campaigns.</abstract>
+        <description>Solid rocket motors are cheap, reliable and have been used for several centuries. Although inferior in specific impulse compared to hybrid and liquid engines, this class of thermochemical engines have still advantages regarding complexity and reliability.</description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4458">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>inertial_navigation</slug>
+        <title>Inertial navigation</title>
+        <subtitle>Rigid body dynamics and its application to dead reckoning</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>The motion of objects through space can be observed in everyday life and the analysis of their dynamics leads to a fundamental notion of theoretical mechanics, the rigid body. Inertial navigation is based on continuous measurement of acceleration and angular velocities and the inversion of the rigid body's equations of motion. Additionally, the modeling of noise and error propagation is essential to correctly estimate position and attitude.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4429">
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>life_foods</slug>
+        <title>Life foods</title>
+        <subtitle>Benefits of use of microbial fermentations in food and beverage preparations.</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>The regular consumption of life foods was very important for healthy life style thousands years ago and the same applies for today. The use of today's scientific knowledge in combination with current technology will allow us to optimise these techniques.</abstract>
+        <description>Cultural heritages of human societies around the world include sets of traditional techniques for life-culture foods and beverages preparations the consumption of which was part of everyday life. Documentation and analysis of these techniques can result in deeper understanding of the relationships of the local communities and their environments that has allowed them to live in these locations for many generations. This project discovers and distinguishes key functional elements of these relationships to promote them. This can result in more efficient and environmentally friendly food and beverage culturing approaches combining traditional wisdom with today's scientific understanding and technology, activity described as food and beverage hacking. Open source practices will facilitate promotion of these newly developed approaches and techniques in various communities around the world, improving their sustainability and decreasing their impact on the environment.
+
+Key words: life-culture foods; life-culture beverages; food culturing; beverage culturing; food hacking; beverage hacking; traditional societies; sustainable development; local communities; open source</description>
+        <persons>
+          <person id="3223">Frantisek Apfelbeck</person>
+        </persons>
+        <links>
+          <link href="http://frantisekapfelbeck.org/tiki_wiki/tiki-index.php?page=Proyecto+Chihiro">home page for the project</link>
+          <link href="http://en.wikipedia.org/wiki/Fermentation_%28food%29">basic info about fermented foods</link>
+        </links>
+      </event>
+      <event id="4560">
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>post_hacker_ethics_cyberwar</slug>
+        <title>Legal, illegal, decentral: Post-hacker-ethics cyberwar</title>
+        <subtitle>Applied loss of control to hacker-ethics?</subtitle>
+        <track>Culture</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Several newly formed hacker groups were in the press, like Anonymous and lulzsec. We will analyze and discuss how these fit into the world, and how the different groups (politics, press, media, hackers) react to this new movement. Set sail for fail!</abstract>
+        <description>There are more and more interesting groups active in the internet, apart from the usual lolpicz and pictures of kittens.
+
+There was wikileaks which had a big impact to mainstream media, similar to the BTX and the KGB hack from the CCC in the last century. The politicians now discuss about wikileaks and declare cyberwar and want to privatize the internet ("the main problem of the internet is the open content").
+
+Additionally there are new groups, anonymous and lulzsec, which discovered a major problem in wikileaks, that there is a single face connected to it. They get over it and act anonymously without a clear political agenda (simply because every new activity attracts a different set of people). "Anonymous" also eases participation of non-hackers in some activities, like DDoS VISA/paypal etc).
+
+While some hacker groups join the establishment and react, others finally wake up from their powerlessness and act, in a sensefull or senseless way.
+
+We will compare different approaches and look into history and achievements of non-parliamentary groups.
+
+We want to provide useful discourse and provoke a fruitful discussion.</description>
+        <persons>
+          <person id="106">Hannes</person>
+          <person id="13">Jens Ohlig</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4412">
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>latest_developments_around_the_milkymist_system_on_chip</slug>
+        <title>Latest developments around the Milkymist System-on-Chip</title>
+        <subtitle>A roundup of one the most advanced open hardware projects</subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Milkymist develops a comprehensive solution for the live synthesis of interactive visual effects. It features one of the first open source system-on-chip designs. This talk gives a roundup of what has happened during the last 1.5 year in this project.</abstract>
+        <description>The Milkymist project is an informal organization of people and companies who develop, manufacture and sell a comprehensive open source hardware and software solution for the live synthesis of interactive visual effects for VJs. The project goes great lengths to apply the open source principles at every level possible, and is best known for the Milkymist system-on-chip (SoC) which is among the first commercialized system-on-chip designs with free HDL source code.
+
+As a result, several Milkymist components have been reused in applications unrelated to video synthesis. For example, NASA's Communication Navigation and Networking Reconfigurable Testbed (CoNNeCT) experiment uses the memory controller that was originally developed for the Milkymist system-on-chip and published under the GNU GPL.
+
+A lot has happened since the introduction to the project at the 26C3. We have designed and are now producing and selling our own hardware called Milkymist One. The system-on-chip design has reached a very usable state, with improved graphics acceleration capabilities, support for all the interfaces on the Milkymist One (e.g. video digitizer, USB, Ethernet, MIDI, DMX, ...) and a GDB-compatible in-system debugger. On the software side, we have ported the RTEMS real time operating system and up-leveled the Linux port. We also have developed our own end-user video synthesis application which runs on RTEMS and uses the MTK embedded GUI toolkit (based on Genode FX). Several third-party applications and many libraries were successfully run on the Milkymist SoC, such as the MuPDF document viewer and the Lua and Ruby programming languagues. The SoC software can also be run and debugged in the latest versions of the QEMU emulator. This talk presents all this, and more. Demonstrations included.</description>
+        <persons>
+          <person id="2514">S&#233;bastien Bourdeauducq</person>
+        </persons>
+        <links>
+          <link href="http://www.milkymist.org">Project homepage</link>
+        </links>
+      </event>
+      <event id="4462">
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>accessblocking</slug>
+        <title>Counter-lobbying in the EU Parliament</title>
+        <subtitle>How citizens can hack the legislative process to protect their freedoms online</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>The german access-blocking debate in 2009 only was a prelude to the EU-wide introduction of a blocking infrastructure in the Internet. Only delayed by the Lisbon Treaty compulsory, blocking by all EU-Memberstate has been discussed in the European Parliament since March 2010.</abstract>
+        <description>J&#233;r&#233;mie Zimmermann and Christian Bahls will describe how to get involved with policy-making in the EU using the discussion around Access-blocking as a case study.</description>
+        <persons>
+          <person id="3321">Christian Bahls MOGiS e.V.</person>
+          <person id="1505">J&#233;r&#233;mie Zimmermann</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4402">
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>tempo_phythm_echo</slug>
+        <title>Tempo/Rhythm/Echo extraction from Music</title>
+        <subtitle></subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>This talk explains how the tempo of music can accurately be measured and how it can be used afterwards to extract rhythmical information and composition properties. These can further be used to find similar songs, generate synthetic rhythms and mix music.</abstract>
+        <description>The peaks/valleys in autodifference/autocorrelation plots correspond potentially to the perceived tempo of music. Consequently, they can be used to measure the tempo of music. The problem with these techniques is that reported tempos might be off by a multiplication factor. This presentation discusses removal of such biases as to flatten out the autodifference/autocorrelation plots. Secondly, we discuss how the problem of tempo-harmonics (120 BPM reported as 90 BPM for instance) can be reduced from a multi-class classification problem to a binary classification problem. The resulting tempo information makes it further possible to extract rhythm and composition extraction from music.</description>
+        <persons>
+          <person id="3287">Werner Van Belle</person>
+        </persons>
+        <links>
+          <link href="http://bpmdj.yellowcouch.org/">BpmDj homepage</link>
+          <link href="http://werner.yellowcouch.org/Papers/bpm10/index.html">Latest tempo article</link>
+          <link href="http://werner.yellowcouch.org/Papers/bpm04/index.html">First tempo article</link>
+          <link href="http://werner.yellowcouch.org/Papers/rhythmex/">Rhythm extraction article</link>
+          <link href="http://werner.yellowcouch.org/Papers/insomnia05/index.html">Presentation given at the Insomia Festival</link>
+          <link href="http://werner.yellowcouch.org/Papers/dortmund10/">Presentation given at the music department Dortmund</link>
+        </links>
+      </event>
+    </room>
+    <room name="Baikonur">
+      <event id="4588">
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>what_is_brewing_in_brussels</slug>
+        <title>What is brewing in Brussels? </title>
+        <subtitle>What is coming down the political pipeline in the EU</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Right now the European Union is in a bit of a lawmaking frenzy on areas 
+that are relevant to the internet in general. </abstract>
+        <description>This Commission has 
+several ambitious undertakings going on with regard to:
+
+* enforcement of so-called intellectual property rights
+* data protection
+* data retention directive
+* Passenger Name Records (PNR)
+
+Furthermore, several recent efforts are wrapping up and are moving to 
+the national level, such as ACTA and webfilters against child pornography.
+
+During this lecture Katarzyna Szymielewicz (Panoptykon Foundation 
+Poland) and Walter van Holst (European Digital Rights) will explain the 
+main topics in Brussels, what you can do to get involved to defend your 
+freedoms.
+</description>
+        <persons>
+          <person id="3382">Walter van Holst</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4449">
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>digitale_gesellschaft_ev</slug>
+        <title>"Digitale Gesellschaft e.V." </title>
+        <subtitle>Ein neuer Ansatz, um digitale B&#252;rgerrechte zu erhalten</subtitle>
+        <track>Society</track>
+        <type></type>
+        <language>de</language>
+        <abstract>Im April 2011 wurde mit "Digitale Gesellschaft" ein neuer Verein zum Erhalt und Ausbau von digitalen B&#252;rgerrechten pr&#228;sentiert. </abstract>
+        <description>Die Ziele von "Digitale Gesellschaft" sind der Aufbau einer eigenen Kampagneninfrastruktur, eine andere Herangehensweise an Kampagnen, die sich visuell und kommunikativ auch an Nicht-Nerds richten und f&#252;r unsere Themen Bewusstsein schaffen sollen, sowie der Aufbau einer Interessenvertretung f&#252;r Nutzerrechte in Berlin und Br&#252;ssel.
+
+Dieser Vortrag mit anschlie&#223;ender Diskussion m&#246;chte einen Einblick in die Ziele und Arbeitsweise von "Digitale Gesellschaft" liefern, sowie Pl&#228;ne f&#252;r die Zukunft / n&#228;chste Kampagnen / Ans&#228;tze zur Diskussion stellen.
+
+</description>
+        <persons>
+          <person id="1755">Markus Beckedahl</person>
+        </persons>
+        <links>
+          <link href="http://www.digitalegesellschaft.de">Digitale Gesellschaft</link>
+        </links>
+      </event>
+      <event id="4478">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>die_psychologischen_grundlagen_des_social_engineerings</slug>
+        <title>Die psychologischen Grundlagen des Social Engineerings</title>
+        <subtitle></subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Dieser Vortrag zeigt, wie Social-Engineering funktioniert und erkl&#228;rt die zugrundeliegenden Tricks und Kniffe anhand sozialpsychologischer Studien und Experimente. Au&#223;erdem werden Beispiele, Warnsignale und Gegenma&#223;nahmen vorgestellt.</abstract>
+        <description>Social-Engineering ist eine Angriffsstrategie, die nicht die Technik als Opfer auserkoren hat. Stattdessen wird hier viel lieber - und vor allem effizienter - der Mensch, bzw. sein Verhalten angegriffen. Ein Angreifer verwendet verschiedene Strategien und Taktiken, um aus Benutzern der Systeme Informationen wie Passw&#246;rter oder IP-Adressen herauszuholen. Mithilfe dieser Informationen kann er erfolgreiche Angriffe gegen Zielsysteme fahren. Dieser Vortrag zeigt, wie Social-Engineering funktioniert und erkl&#228;rt die zugrundeliegenden Tricks und Kniffe anhand sozialpsychologischer Studien und Experimente. Au&#223;erdem werden Beispiele,Warnsignale und Gegenma&#223;nahmen vorgestellt. Der Vortrag richtet sich an Sicherheitsverantwortliche und Systemadministratoren, die verstehen wollen, wie Social-Engineering funktioniert und dieses Wissen in ihre Sicherheitsma&#223;nahmen integrieren wollen. Vorgestellt werden die sozialpsychologischen Grundlagen der Psychologie der Manipulation. 
+
+Es handelt sich hierbei um einen wissenschaftlichen Vortrag, der Methoden und Werkzeuge der Sozialpsychologie nutzt und vorstellt.
+
+Psychologische Grundlagen der Manipulation&lt;br /&gt;
+Reziprozit&#228;t &lt;br /&gt;
+Wer A sagt -- von Commitment und Konsistenz&lt;br /&gt; 
+Soziale Bew&#228;hrtheit &lt;br /&gt;
+Sympathie &lt;br /&gt;
+Attraktivit&#228;t&lt;br /&gt;
+&#196;hnlichkeit&lt;br /&gt;
+Komplimente &lt;br /&gt;
+Kontakt und Kooperation&lt;br /&gt;
+Konditionierung und Assoziation&lt;br /&gt;
+Autorit&#228;t&lt;br /&gt;
+Schein und Sein&lt;br /&gt;
+Knappheit&lt;br /&gt; </description>
+        <persons>
+          <person id="2699">Stefan Schumacher</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4488">
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>steal_everything_kill_everyone_cause_financial_ruin</slug>
+        <title>Steal Everything, Kill Everyone, Cause Total Financial Ruin!</title>
+        <subtitle>Or: How I walked  in and misbehaved</subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>This  is not a presentation where I talk about how I would get in or the  things 
+I might be able to do. This is a talk where I am already in and I  show you 
+pictures from actual engagements that I have been on. </abstract>
+        <description>They say  one picture is 
+worth a thousand words I show you how one picture cost a  company a  million 
+dollars and maybe even a few lives. In a community where we  focus so much on 
+the offensive I also make sure with every attack I  highlight. I spend time 
+discussing what would have  stopped me. We need to know the problems but we need 
+more talks  providing solutions and that is what I hope people will get from 
+this. I  show the dangers of Social engineering and how even an employee with no  
+SE experience can be an eBay James Bond which can cause total financial ruin to 
+a company. These Security threats are real. So are these stories!
+
+I talk about how there is only 1 fact that should concern a business I  am 
+GETTING IN! No need to discuss defense we are way past that!
+
+
+I discuss the 2 rules I operate under "I aim to misbehave" &amp; "Let's go be bad 
+guys" notice nothing about audits or PCI, HIPPA or Gramm&#8211;Leach&#8211;Bliley Act I  
+just want to do as much evil as I can get away with and what causes you  the 
+most harm I could care less if you are 'compliant' on anything.
+
+ 
+Those 2 rules gives me these 3 outcomes which I discuss in depth.
+
+1. Steal everything
+I  show with actual pictures how I could steal purses, backpacks, cell  phones, 
+cars, laptops, etc? I also provide a real world story from the  news showing it 
+is not theory but known practice of thieves.
+
+2. Kill everybody
+I  show pictures of mechanical rooms that I was able to get  in. Pictures of the 
+fire suppression and alarm systems I could have  turned off even a video of me 
+walking into the back of a hotel going to  their hazardous chemical closet that 
+was unlocked and then walking  unchallenged through the kitchen where I could 
+have used those chemicals  to poison all the food and also start a fire with 
+them. I also provide a  real world story from the news showing it is not theory 
+but known  practice of killers and terrorist.
+
+3. Cause total financial ruin
+I  will show offices of VPs and CEOs that I had access to and where I  would 
+have been able to steal company secrets and actual formulas that  are the 
+livelihood of the companies I breached. I also provide a real  world story from 
+the news showing it is not theory but known practice of  corporations. 
+
+       
+Countermeasures 
+With every outcome I  provide the ways I could have been stopped and things that 
+should have  been in place that  would have prevented me from carrying out any 
+of these attacks. Some of  the defenses are the same for everyone though once 
+again defense in  depth is what could have saved the day. 
+</description>
+        <persons>
+          <person id="2641">Jayson E. Street</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4503">
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>ich_und_23</slug>
+        <title>Ich und 23</title>
+        <subtitle>Fingerabdr&#252;cke der DNA</subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Der Vortrag wird zun&#228;chst die Grundlagen des DNA-Fingerprinting auf unseren 23 Chromosomenpaaren zusammenfassen. Dabei wird besprochen, wie ein genetischer Fingerabdruck praktisch f&#252;r die Verwendung in der Forensik entsteht und in welcher Form die Speicherung in einer Datenbank vorgenommen wird. Darauf aufbauend werden St&#228;rken und Risiken der Technologie er&#246;rtert.  </abstract>
+        <description>In der modernen Forensik spielt der DNA-Fingerabdruck eine immer wichtigere Rolle, die Landeskriminal&#228;mter sprechen regelm&#228;&#223;ig von hohen Aufkl&#228;rungsraten dank der DNA-Analysedateien und des sogenannten genetischen Fingerabdrucks. Welche konkreten Risiken vom genetischen Fingerabdruck einerseits und von den Datenbanken andererseits f&#252;r unsere B&#252;rgerrechte ausgehen, kann man zun&#228;chst nur dann bewerten, wenn zumindest die einfachen molekulargenetischen Grundlagen klar sind. Der Vortrag wird genau hier ansetzen und zuerst kurz in die biologischen Zusammenh&#228;nge einf&#252;hren. Darauf aufbauend wird praktisch illustriert, wie im forensischen Labor aus einem Asservat ein Datensatz mit dem genetischen Fingerabdruck entsteht. Weiterhin wird die Sicherheit des Abdrucks mithilfe der Biostatistik besprochen. Danach diskutieren wir abschlie&#223;end m&#246;gliche Zukunftsvisionen - und damit auch berechtigte &#196;ngste und Vorbehalte in Bezug auf molekulargenetische Datenbanken.</description>
+        <persons>
+          <person id="36">Mirko Swillus</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4472">
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>hacking_dna</slug>
+        <title>Hacking DNA</title>
+        <subtitle>Compiling code for living systems</subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Genetic modification is getting cheaper and biohackers are making it more accessible. This talk outlines the state of DIYbio and institutional synthetic biology; current challenges in biological programming and why you should be hacking biology.</abstract>
+        <description>The technology to program biological self-replicating machines is here now. Synthetic biologists are reverse-engineering living cells and building bio-compilers that will facilitate abstract design of complex genetic programs. This talk will show how such a genetic program can be written using freely available parts and design tools. How the DNA can be synthesized, assembled,  inserted into a cell culture and the result debugged. The tools to accomplish this exist in two spaces: The wetlab (biological) and the drylab (software). Wetlab access continues to be a limiting factor in participation by the wider community of citizen scientists, hackers and makers. Access restrictions both technological and legal are not foreign to hackers, and biohackers are currently facing obstacles such as GMO laws, expensive lab equipment and restricted access to materials, yet DIYbio groups around the world are building labs, acquiring expertise and making this technology available to everyone. This talk gives an overview of the gap in capabilities between professional labs and DIYbio labs, how it can be overcome, and the unique challenges of biosafety, ethics and intellectual property in biology.</description>
+        <persons>
+          <person id="3286">Marc Juul</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4490">
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>ios_application_security</slug>
+        <title>iOS application security</title>
+        <subtitle>A look at the security of 3rd party iOS applications</subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Over the last few years there has been a signifant amount of iPhone and iPad application development going on. Although based on Mac OSX, its development APIs are new and very specific to the iPhone and iPad. In this presentation, Ilja van Sprundel, Principal Security Consultant at IOActive, will discuss lessons learned from auditing iPhone and iPad applications over the last year.</abstract>
+        <description>It will cover the use of specific APIs, why some of them aren't granular enough, and why they might expose way too much attack surface. The talk will cover ssl, xml, url handling, UIWebViews and more. Furthermore, it will also cover what apps are allowed to do when inside their sandbox once an application has been hacked.</description>
+        <persons>
+          <person id="3158">Ilja van Sprundel</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4450">
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>imagine_the_future_of_money</slug>
+        <title>Imagine the Future of Money</title>
+        <subtitle>Economic transformations, hacker culture and why we should be so lucky</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>What comes after capitalism? We will give an overview on the development of complementary and alternative monetary systems: Which ones are there to stay, how they influence social development, how they can be improved and why hackers should really care.
+
+</abstract>
+        <description>DYNDY is an effort to inform and empower communities with concepts and tools to overcome scarcity. Since the beginning of 2010 it unfolds as an academic research conducted in cooperation with experts from various fields: economists, philosophers and hackers. Its outcomes are visible as publications which, still being grounded in scholarly written theory, aim at divulgation of innovative concepts and at interaction with existing and future implementations of monetary systems.
+
+Quoting Bernard Lietaer: &#8220;We can&#8217;t imagine to enter the Information Age without changing the fundamental and most used communication tool: Money&#8221;. At the CCC camp 2011 we intend to follow this call and break the foremost taboo of our time which is, indeed, money.
+
+With our research we intend to establish a theoretical and practical framework for further development of this ancient media, which is widely used around the world and can finally benefit from the innovative drive that hackers have given so far to networking technologies.
+
+After about 2 years of research, in this lecture we intend to present in detail our findings, mostly answering impelling questions as: How financiarization is leading to the dissolution of the capitalist market and which values will naturally arise afterwards, what is the meaning of General Sentiment and how affect converges in the information economy, what peer 2 peer cryptographic currencies mean to the global markets and what we can still develop to benefit and share wealth among all those who are using money around the World.
+
+The language used will be both technical and theoretical, still no particular knowledge is needed, but pure interest on the subject and inclination to follow an interdisciplinary discourse between humanities and science.</description>
+        <persons>
+          <person id="3299">Jaromil</person>
+          <person id="3357">radium</person>
+        </persons>
+        <links>
+          <link href="http://www.dyndy.net/2011/04/bitcoin-presented-to-the-old-world/">Bitcoin vs old-World banks</link>
+          <link href="http://dyndy.net">A Pattern Language for Alternative and Complementary Money Systems</link>
+          <link href="http://bitcoin.witcoin.com/p/1212/DYNDY---writing-more-philosophical-and-economical-considerations-about-bitcoin">DYNDY research on Witcoin</link>
+          <link href="http://www.dyndy.net/general-sentiment/">General Sentiment</link>
+          <link href="http://www.dyndy.net/knowkunst-3/">Ontology of Money</link>
+          <link href="http://freecoin.ch">Freecoin.ch</link>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day date="2011-08-12" index="3">
+    <room name="Kourou">
+      <event id="4492">
+        <start>00:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>stalker</slug>
+        <title>Die Strugazki-Br&#252;der oder das hom&#246;ostatische Weltbild</title>
+        <subtitle>Ein audiovisuelles Live-H&#246;rspiel</subtitle>
+        <track>Culture</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Die atomar verstrahlten Ruinen eines ehemaligen Kernkraftwerkes sind Symbole f&#252;r das bevorstehende Ende der Zivilisation, aber gleichzeitig die Wunschmaschine, die alle Sehns&#252;chte stillen kann. Dieser Ort ist nicht Fukushima und auch nicht Tschernobyl, sondern der Zielort der Protagonisten im Roman &#8222;Picknick am Wegesrand&#8220; der russischen Autorenbr&#252;der Arkadi und Boris Strugazki. </abstract>
+        <description>Der aktuellen Generation wurde diese Geschichte allerdings durch ein Computerspiel bekannt: &#8222;Stalker&#8220;. Und doch lebt in diesem Spiel noch das urspr&#252;ngliche Hauptthema der Strugazki-Br&#252;der weiter: Kritik am Kommunismus im Allgemeinen und der Ausl&#246;schung des Individuums durch den Staat im Speziellen. Im audio-visuellen H&#246;rspiel "Die Strugazki-Br&#252;der oder das hom&#246;ostatische Weltbild" beleuchtet die Nerdspielwerkstatt die Lebensgeschichte und Leitmotive der Science-Fiction-Autoren, die durch den Nachhall ihrer Ideen eine ganze Generation von Computerspielern nachhaltig gepr&#228;gt haben.</description>
+        <persons>
+          <person id="1308">Agata Kr&#243;likowski</person>
+          <person id="872">Ina  Kwasniewski</person>
+          <person id="411">Jens-Martin Loebel</person>
+          <person id="3329">Kai Kittler</person>
+          <person id="3361">Marcus Mews</person>
+          <person id="412">Marcus  Richter</person>
+        </persons>
+        <links>
+          <link href="http://www.nerdspielwerkstatt.de">Homepage der Nerdspielwerkstatt</link>
+        </links>
+      </event>
+      <event id="4549">
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>sport_fuer_nerds</slug>
+        <title>Sport f&#252;r Nerds</title>
+        <subtitle>discover your body</subtitle>
+        <track>Community</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Viele von uns sitzen l&#228;nger vorm Rechner als es ihnen gut tut, irgendwann geht dann die Suche nach einer geeigneten Sportart los &#8230;
+</abstract>
+        <description>Schnell landet man im Fitnesstudio, da dies die 'einfachste' M&#246;glichkeit zu sein scheint, fit zu bleiben und eventuell Gewicht zu reduzieren. Relativ schnell bemerkt man dann, dass es doch etwas langweilig wird und die Motivation schwindet und man zum Schluss kommt, Sport sei doch nichts f&#252;r Computerfreaks. Dieser Vortrag soll aufzeigen, welche Sportarten f&#252;r Nerds besonders geeignet sind und warum. Desweiteren soll er einen kurzen Einblick bieten in das, was herauskommt, wenn man Sport und Informatik zusammenbringt.
+
+Stichpunkte:
+
+- Sport wieso?
+- Enjoy your body &#8230;
+- Trete in Kontakt mit deiner Umwelt &#8230;
+- Das Fitnesstudio &#8230; ist nichts f&#252;r Nerds 
+- Welcher Sport dann?
+- Anforderungen die wir an den Sport stellen
+- Der k&#246;rperliche Aspekt
+- Der geistige Aspekt
+- Der soziale Aspekt
+- Die Gesamtmotivation &#8230; Spass
+- Sportarten die diese Anforderungen erf&#252;llen
+- &#220;18 Toben im Tiki Kinderland
+- Beispiel Klettern
+- Beispiel Tanzen
+- Beispiel Kampfsport / Luta Livre / MMA (Mixed Martial Arts) / Vollk&#246;rperkontaktblitzschach
+- Chaos kompatibler Sport am Beispiel MMA
+- Kampfsport als Schachspiel
+- Analyse der Taktiken im Kampfsport
+- Beispiel Ahand eines selbst entwickelten Programms
+- Sportinformatik &#8230; ein Bet&#228;tigungsfeld mit Potential
+</description>
+        <persons>
+          <person id="3355">Michael Schwab</person>
+        </persons>
+        <links>
+          <link href="http://www.youtube.com/watch?v=ZVx0-lO4_AI">&#220;18 Toben im Tiki Kinderland (Video)</link>
+          <link href="http://fitness4mma.de/">Functional Fintness Anleitungen</link>
+          <link href="http://www.youtube.com/watch?v=IQg4KlSU8tg">Functional Fitness (Video)</link>
+          <link href="http://www.youtube.com/watch?v=4fxRyX_9v9Q">Luta Livre Summercamp (Video)</link>
+          <link href="http://www.youtube.com/watch?v=H1LMtt4CUeg">Breakdance WM 2007</link>
+          <link href="http://www.sportschule-koeln.de">Sportschule K&#246;ln (Homepage)</link>
+          <link href="http://www.mma-berlin.de">MMA Berlin (Homepage)</link>
+          <link href="http://www.youtube.com/watch?v=bwVVpwBKUp0">YouTube Video Class of 99</link>
+          <link href="http://yogaka.com/Masterarbeit_Anne_Pellaud_2009.pdf">Masterarbeit Soziologie zum Thema MMA von Anne Pellaud (PDF Dokument)</link>
+          <link href="http://www.youtube.com/watch?v=O2mUIGaXf6M">Parcour / Freerunning (Video)</link>
+        </links>
+      </event>
+      <event id="4447">
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>hybrid_rocket_engines</slug>
+        <title>Hybrid rocket engines</title>
+        <subtitle>Design and implementation of rocket engines with two-phase propellants</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4451">
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>a_modern_manifest_of_cyberspace</slug>
+        <title>A modern manifest of cyberspace</title>
+        <subtitle>The internet is dead, long live the internet</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>The internet is increasingly falling under the control and restrictions of governments and multinational corporations. Internet connections are filtered and censored, not only in China but blatantly so in 'western' countries such as Australia and Canada. The content industry is clamping down on infringement on intellectual property and calls for ever more far-fetching and over-reaching laws to be put into effect. Meanwhile, telco's are making deals with content providers to decide how gets premium access and who gets degraded access to their networks.
+</abstract>
+        <description>We have seen the internet rise, saw its potential and then lost it to capitalism and state control. It is time we truly 'take back the web'. The modern manifest of cyberspace is a call to action, urging the community to regain control and fight for a free infrastructure to sustain an uncensored and unbiased flow of information.
+
+The internet is increasingly falling under the control and restrictions of governments and multinational corporations. Internet connections are filtered and censored, not only in China but blatantly so in 'western' countries such as Australia and Canada. The content industry is clamping down on infringement on intellectual property and calls for ever more far-fetching and over-reaching laws to be put into effect. Meanwhile, telco's are making deals with content providers to decide how gets premium access and who gets degraded access to their networks.
+
+As such, the independence of cyberspace [https://projects.eff.org/~barlow/Declaration-Final.html as declared in 1996] is a thing of the past. We urgently need to reclaim this independence, to ensure the free flow of information. One way out is the deployment of darknets and encrypted tunnels layered over the existing commercial internet. In this talk I will argue for a more radical option though; I will call to abandon the existing infrastructure and build our own.
+
+This talk will highlight various already ongoing initiatives supporting this bold idea, and ideas that are currently bubbling up to build grass-roots internet. Wireless mesh networks that connect local areas, initiatives to connect rural areas to the larger networking community and the [http://events.ccc.de/camp/2011/space.html hackerspaces space program] launching this year at the CCC camp in August, which creates the environment for an actual grass-roots telecommunications satellite network and unites various ongoing efforts in this area.
+
+But most of all, this talk will argue that the time is here to join loose initiatives and localized grass-roots telecommunication efforts to implement a world-wide and independent communications network. This talk will explore possibilities, challenges and perhaps the need to unlearn the familiar and adapt to a new era of a truly decentralized infrastructure without traditional hubs of power and controlling agencies.</description>
+        <persons>
+          <person id="680">gmc</person>
+        </persons>
+        <links>
+          <link href="http://hackerspaces.org/wiki/Intermesh">Brief sketch</link>
+          <link href="http://0x20.be/Newline/Schedule/The_internet_is_dead,_long_live_the_internet">Earlier lightning talk on the subject at Newline Ghent hackerspace 0x20</link>
+        </links>
+      </event>
+      <event id="4435">
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>windkraftanlagen</slug>
+        <title>Windkraftanlagen</title>
+        <subtitle>Aufbau, Betrieb, Probleme</subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Windenergie ist momentan noch interessanter geworden, aber kaum jemand wei&#223; &#252;ber die eingesetzte Technik Bescheid.
+Daher soll sowohl der Aufbau als auch der Betrieb erkl&#228;rt werden. Zus&#228;tzlich wird auf potentielle Probleme eingegangen.</abstract>
+        <description>Ausgehend von den Grundlagen der Windenergienutzung wird der allgemeine Aufbau einer Windkraftanlage beschrieben: Fundament, Turm, Gondel, Nabe und Fl&#252;gel. Dabei wird besonders auf den weit verbreiteten Typ mit horizontaler Rotorachse eingegangen.
+
+Es folgt eine &#220;bersicht &#252;ber die verwendeten Sensoren und die Steuerungssysteme und der Betriebsaublauf wird erkl&#228;rt. Auch Windparkmanagement ist ein Thema im Vortrag.
+
+Die angeblichen und tats&#228;chlichen Gefahren durch Windkraftanlagen wie L&#228;rmbel&#228;stigung, &#8222;Landschaftsverbrauch&#8220;, Schattenwurf, Gef&#228;hrdung von V&#246;geln und Flederm&#228;usen, Elektromagnetische Beeinflussungen und Eiswurf werden aufgezeigt und erkl&#228;rt.
+
+Den Abschluss bilden einige Zahlen zur aktuellen Situation der Windkraft.</description>
+        <persons>
+          <person id="3282">luky</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4395">
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>counselling_mischief_as_thought_crime</slug>
+        <title>Counselling Mischief as Thought Crime</title>
+        <subtitle>Social Networks, Free Speech and the Criminalization of Dissent in Canada </subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>This presentation will show how the RCMP, CSIS, CSEC and other groups worked to "secure" the 2010 Olympics, G8 and G20 by criminalising dissent, and the use of "Open Source Surveillance" to attempt to crack down on all opposition to these mega-events.</abstract>
+        <description>In 2010, Canada was hosting two of the world's largest events, the 2010 Winter Olympic Games in Vancouver, British Columbia, and the G20 summit in Toronto, Ontario.  In both cases, there was a special group formed from the various security groups in Canada, and these groups were called the Vancouver 2010 Integrated Security Unit and the G8-G20 Integrated Security Unit.  In the case of both Toronto and Vancouver, citizens found that their city was being turned into a fortress to ensure security, and surveillance was being used against its own people.  This is combined with laws that are designed to protect the corporate sponsors of the games, as well as the International Olympic Committee (IOC).
+
+This talk will focus primarily on the tactics of the Vancouver 2010 Integrated Security Unit during the Olympics, and may touch on the G8-G20 Integrated Security Unit in Ontario, and how these groups used various public forums on the Internet to identify and compile a secret list of Activists to be targeted with intimidation tactics, arrest and in some cases, prolonged detainment.  This will also cover the aftermath of the surveillance to see what lessons an international audience can take from this, as well as a dispelling the myth that Canada (and other Western countries) don't engage in the same behaviour, despite their reputation as being "Better than the United States".  This talk is of particular interest to technologists, due to the recent case of Byron Sonne, a security researcher, who, like me, dared to poke the Security Apparatus in the eye, but unfortunately was still in prison when I wrote this presentation.  Due to a publication ban, his information will NOT be presented, but other defendants in the G20 who have published their material will have theirs presented.
+</description>
+        <persons>
+          <person id="2144">Joe</person>
+        </persons>
+        <links>
+          <link href="http://paroxysms.ca">My blog which holds all the ATIP documentation, as well as commentary</link>
+          <link href="http://vancouver.mediacoop.ca">Vancouver Media Coop, contains an Anti-Olympic Archive</link>
+        </links>
+      </event>
+      <event id="4591">
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>financing_the_revolution</slug>
+        <title>Financing The Revolution</title>
+        <subtitle>Secure, private value transactions using digital cash</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Financing The Revolution is a discussion about digital currencies with a particular emphasis on Bitcoin, a new distributed peer-to-peer electronic currency.  Digital cash and Bitcoin in particular have caused many new and interesting markets to appear, and these are examined as well as the link between economic freedom and the expression of other basic rights.
+
+Keywords: digital cash, cryptography, bitcoin, dgc, darknets, markets, civil liberties</abstract>
+        <description>Financing The Revolution is a discussion about digital currencies with a particular emphasis on Bitcoin, a new distributed peer-to-peer electronic currency.  Digital cash and Bitcoin in particular have caused many new and interesting markets to appear, and these are examined as well as the link between economic freedom and the expression of other basic rights.
+
+Jeffrey Paul is a American hacker and entrepreneur currently based in Berlin.  Founder of datavibe.net (1999) and EEQJ (2009), he writes, presents, and consults on a wide range of topics including civil liberties and practical applications of networking, cryptography, and security systems.
+
+Keywords: digital cash, cryptography, bitcoin, dgc, darknets, markets, civil liberties</description>
+        <persons>
+          <person id="3380">Jeffrey Paul (sneak)</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="Baikonur">
+      <event id="4399">
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>runtine_reconfigurable_processors</slug>
+        <title>Runtime Reconfigurable Processors</title>
+        <subtitle></subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>The talk will give the audience an introduction to the world of runtime reconfigurable processors.</abstract>
+        <description>The current state of the art in processor performance improvements are
+multicore-processor systems. These systems offer a number of homogeneous and
+static processor cores for the parallel distribution of computational tasks.
+Another approach are reconfigurable processors or reconfigurable multicore processor 
+systems, which can adapt to program needs on the fly during runtime. 
+This is done through swapping different kinds of functional units in and out or by giving
+the processor freely available space for hardware configuration.
+After years of just being a research field such systems can be seen in the wild.
+For example the HC1 architecture from Convey or the combination of an Intel Atom processor
+with an Altera FPGA.
+The talk will introduce the audience to the field of reconfigurable processors. 
+It will classify the different kinds of such processors and describe some architectures briefly.
+At the end general security issues are explained.</description>
+        <persons>
+          <person id="3271">Dominik Meyer</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4389">
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>decentralized_clustering</slug>
+        <title>Decentralized clustering</title>
+        <subtitle>Making the net - even if your local dicators hate it!</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>In January 2011 the fear of all internauts became bitter truth. A whole country was kill-switched by the government. The flow of data was interrupted, communication laid waste. Not only the Internets was taken down, other means of communication were interrupted too. Cell Phone  providers took down their services. So, there was no Internets in Egypt. Internauts had no chance to  communicate what is happening, mothers and fathers could not send emails to theire relatives. No data was flowing. As the phone lines were  working, this was the solutions: Modems.
+</abstract>
+        <description>In this talk I will describe what Telecomix agents had done during these days to bring back internet to the people of egypt. We used modem technology and set up dial up points all over the world and convinced providers with modem pools to open theire pools for the egyptians for free. Another thing we did was communication via HAM radio and of course fax. Not like anonymous who like to fax cables and stuff, but helpful information about medical help, how to communicate on a secure base and things like that.
+Furthermore I will describe the structure of Telecomix who are working as a decentralized cluster.</description>
+        <persons>
+          <person id="3266">Herr Urbach</person>
+        </persons>
+        <links>
+          <link href="http://telecomix.org">Telecomix</link>
+          <link href="http://">http://</link>
+        </links>
+      </event>
+      <event id="4446">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>open_source_4g_radio</slug>
+        <title>Open-source 4G radio</title>
+        <subtitle>It's time to start WiMAX and LTE hacking</subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>We will walk through a PHY level of mobile WiMAX and outline common and different parts with LTE. Surprisingly, the WiMAX PHY level is not as hard as you may think. We will also present our effort to create an open-source implementation of 4G radio modem.</abstract>
+        <description>4G is being rolled out widely, but there is no open-source implementation of a 4G radio system yet. To change this situation we've started working on an open-source 4G PHY level implementation and we want to invite wider hacker community to join the effort.
+
+Presentation will consist of the following parts:
+1. An introduction to the mobile WiMAX PHY level, giving a bird's-eye view of its levels and main principles.
+2. Review of similarities and differences between mobile WiMAX and LTE PHY levels.
+3. First time presentation to the hacker community of our open-source WiMAX scanner and overall effort to create an open-source 4G implementation.</description>
+        <persons>
+          <person id="3318">Alexander Chemeris</person>
+        </persons>
+        <links>
+          <link href="http://code.google.com/p/wimax-scanner/">Project homepage</link>
+        </links>
+      </event>
+      <event id="4500">
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>reviving_smart_card_analysis</slug>
+        <title>Reviving smart card analysis</title>
+        <subtitle></subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Smart cards chips &#8211; originally invented as a protection for cryptographic keys &#8211; are increasingly used to keep protocols secret. This talk challenges the chips' security measures to unlock the protocols for public analysis.</abstract>
+        <description>Hardened security chips are protecting secret cryptographic keys throughout the virtual and physical worlds. These smart card chips are found in banking cards, authentication tokens, encryption appliances, and master key vaults.
+
+The protection capabilities of the chips is increasingly used to also keep secret application code running on the devices. For example, the protocols of modern EMV credit cards are not publicly known. Such obscurity is hindering analysis, hence letting logic and implementation flaws go unnoticed in widely deployed systems, including credit card systems.
+
+We demonstrate a method of extracting application code from smart cards with simple equipment to open the application code for further analysis.</description>
+        <persons>
+          <person id="1317">Karsten Nohl</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4487">
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>she_hackers</slug>
+        <title>She-Hackers: Millennials and Gender in European F/LOSS Subcultures</title>
+        <subtitle> A Presentation of Research and Invitation for Debate</subtitle>
+        <track>Society</track>
+        <type>meeting</type>
+        <language></language>
+        <abstract>In 2002, Ghosh et al released a study which found that in F/LOSS coder/hacker communities, only 1.5% of members were female. This participation-heavy session is about the challenges of immersive ethnographic research in a time of gender transformation.</abstract>
+        <description>First, a bit about my background. My name is Kat Braybrooke, I'm a Canadian from Vancouver, and I am currently finishing my MSc thesis for University College London's Digital Anthropology program regarding the role of gender in FLOSS hacker and coder cultures. For this thesis (abstract at http://shehackers.kaibray.com), I engaged in a combination of phenomenological immersivity and informant relationship-building with over 30 hackers and coders (male and female) in hackspaces and recursive tech/'geek' cultures across Europe.
+
+When I started my research, I had specific assumptions about who I wanted to talk to and what I thought I'd find. However, through the process of engaging with the spaces and individuals involved in these communities, I have come to realize how incorrect these assumptions were - and I'm hoping these realizations can be of benefit future social scientists, anthropologist and media theorists studying recursive subcultures in periods of ultramodern transformation.
+
+This session is about group participation - discussion, debate, criticism and new ideas. I'm not here to tell you who *you* are. Instead, I want to learn what you, as Chaos Camp attendees, think of these sorts of academic studies of your own communities, and how you feel my methodology can be improved upon. While I'm a self-defined 'geek', I am the outsider here - so before I publish this research, I'd love to hear how my understandings can be improved.
+</description>
+        <persons>
+          <person id="3285">Kat Braybrooke</person>
+        </persons>
+        <links>
+          <link href="http://shehackers.kaibray.com">Dissertation Abstract</link>
+          <link href="http://KAiBRAY.com">KAiBRAY (online portfolio)</link>
+          <link href="http://www.ucl.ac.uk/anthro/digital-anthropology/index.html">UCL Digital Anthropology MSc</link>
+        </links>
+      </event>
+      <event id="4555">
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>black_ops_of_tcpip_2011</slug>
+        <title>Black Ops of TCP/IP 2011</title>
+        <subtitle></subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Remember when networks represented interesting targets, when TCP/IP was itself a vector for messiness, when packet crafting was a required skill?</abstract>
+        <description>In this thoroughly retro talk, we're going to play with systems the old fashioned way, cobbling together various interesting behaviors with the last few shreds of what low level networking has to offer. Here's a few things to expect:
+
+* IPv4 and IPv6 Fragmentation Attacks, Eight Years In The Making
+* TCP Sequence Number Attacks In Modern Stacks
+* IP TTLs: Not Actually Expired
+* Inverse Bug Hunting: More Things Found On The Open Net
+* Rebinding Attacks Against Enterprise Infrastructure
+* BitCoin: Network Manipulation for Fun And (Literal) Profit
+* The Net Neutrality Transparency Engine
+
+DNS might show up, and applications are going to be poked at. But this will be an old style networking talk, through and through.</description>
+        <persons>
+          <person id="154">Dan Kaminsky</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4496">
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>applied_research_on_security_of_tetra_radio</slug>
+        <title>Applied Research on security of TETRA radio</title>
+        <subtitle>digital radio technology beyond GSM</subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>The digital professional mobile radio system TETRA is used by a wide range of users in almost all continents of the world.  
+
+The OsmocomTETRA project has created a software radio receiver for the TETRA air interface, similar to what airprobe has done for GSM.  Using this receiver plus associated protocol analysis tools, we are able to investigate and research the security level of real-world TETRA networks.</abstract>
+        <description>The digital professional mobile radio system TETRA is used by a wide range of users in almost all continents of the world.  TETRA has been designed with the specific security and safety needs of police, law enforcement and other government authorities in mind.   However, in reality again all security features are optional - like in GSM. 
+
+While government users typically use most or all of those security features, many commercial users of TETRA chose to not use them - most likely driven by budget constraints.
+
+The OsmocomTETRA project has created a software radio receiver for the TETRA air interface, similar to what airprobe has done for GSM.  Using this receiver plus associated protocol analysis tools, we are able to investigate and research the security level of real-world TETRA networks.
+
+We are also working on something similar to OpenBTS or OpenBSC, i.e. software to run our own minimalistic TETRA network for further research.
+</description>
+        <persons>
+          <person id="62">Harald Welte</person>
+        </persons>
+        <links>
+          <link href="http://tetra.osmocom.org/">OsmocomTETRA project homepage</link>
+        </links>
+      </event>
+      <event id="4426">
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>certified_programming_with_dependent_types</slug>
+        <title>Certified programming with dependent types</title>
+        <subtitle>Because the future of defense is liberal application of math</subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Dependent types expand the concept of types in programming languages by arbitrary predicates depending on the value of the type. This lecture will introduce the concept and show how it can be used to develop formally verified code.
+</abstract>
+        <description>As part of this lecture, a PDF parser written using the described methods will be released. Initial tests show that produces excellent results in distinguishing between legitimate PDFs and those with malicious payloads, with a rejection rate for malicious PDFs exceeding 95%.</description>
+        <persons>
+          <person id="91">Andreas Bogk</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day date="2011-08-13" index="4">
+    <room name="Kourou">
+      <event id="4561">
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>Kourou</room>
+        <slug>hacker_jeopardy</slug>
+        <title>Hacker Jeopardy</title>
+        <subtitle>Number guessing for geeks</subtitle>
+        <track>Misc</track>
+        <type>contest</type>
+        <language></language>
+        <abstract>The Hacker Jeopardy is a quiz show.</abstract>
+        <description>The well known reversed quiz format, but of course hacker style. It once was entitled "number guessing for geeks" by a German publisher, which of course is an unfair simplification. It's also guessing of letters and special characters. ;)
+
+Three initial rounds will be played, the winners will compete with each other in the final.
+</description>
+        <persons>
+          <person id="933">Ray</person>
+          <person id="101">Stefan 'Sec' Zehl</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4597">
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>moonbounce_radio_communication</slug>
+        <title>Moonbounce Radio Communication</title>
+        <subtitle>To the Moon and back in two seconds. The joy of light speed information travel</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Moon bounce, also known as EME (Earth-Moon-Earth), is a technique that allows two earth-based radio stations to communicate directly by using the moon as passive reflector.
+
+It is the longest path two stations on Earth can use to establish direct connection with each other. First developed the late 1940s by the United States Navy it was used as a revolutionary way to communicate without the uncertainties of shortwave radio propagation. The development of artificial satellites completely obsoleted this usecase only a few years later but the technique itself is still one of the most challenging tasks in radio communication. Today it's Amateur Radio stations that are practising the art of Moon bounce. We are here to tell and to show you how it is done.
+</abstract>
+        <description>Amateur Radio Operators are one of the oldest sub-groups in the Hacker universe. Long before the term Hacker was coined there were people tinkering in their Shacks, building equipment and trying to communicate with like-minded spirits from all over the world. Moon bounce is not the newest kid on the block in the radio field but still most demanding in terms of necessary equipment as well as operating skills.
+
+We provide you with a little historic background, some basic facts about how radio communication even works and then explain what has to be done to achieve the goal of bouncing signals off the moon. In a weird coincidence we will actually have a Moon bounce setup at the camp site so expect some current pictures as well as juicy tales of the radio art.
+
+"But wait!" you say, "The moon's only up half of the day". Well, you're right. Remember those artificial satellites that replaced the moon in military as well as commercial applications? We have them too! Amateur Radio Satellites and even the International Space Station can easily be reached with a very modest radio setup so we will explore these communication modes too.</description>
+        <persons>
+          <person id="3388">Andreas Schreiner</person>
+          <person id="3389">Clemens Hopfer</person>
+          <person id="3386">Patrick Strasser</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4466">
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>rocket_telemetry</slug>
+        <title>Telemetry </title>
+        <subtitle>Real-time communication during rocket flight</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Retrieval of information is essential for every experiment, especially involving rockets. The use of electromagnetic waves is the natural choice for communication with a rocket and sometimes the only means to retrieve flight hardware afterwards.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4467">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>avionics</slug>
+        <title>Avionics</title>
+        <subtitle>Design and implementation of flight electronics</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Flying hardware must perform its intended function under harsh environmental conditions while fulfilling strict requirements due to boundary conditions like weight, size, and power consumption. The design must exhibit redundancy and resilience against adversary conditions and special care has to be given to thermal management and energy sources. We will discuss design rules to cope with specific problems and present a prototype system based on the multicore chip P8X32A.</abstract>
+        <description>The succesful operation of electronic equipment in space must take effects into account that are normally not encountered under terrestrial conditions. The hardware must be protected against accelerations and vibrations during takeoff, reentry, and landing by protecting it mechanically. The ubiquitous vacuum in space leads to an elevated radiation field, (re)sublimation of materials, and exposure to extreme temperature cycles. This constant tear and wear leads to an accelerated decay of structures on different scales, from microscopic structures in semiconductors to macroscopic parts like junctions, cables and batteries. We will discuss in this lecture some of the effects in detail to give an overview of the challenges and give guidelines to avoid typical pitfalls during design.</description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4476">
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Kourou</room>
+        <slug>photovoltaics</slug>
+        <title>Open source photovoltaics</title>
+        <subtitle>power for off-grid devices</subtitle>
+        <track>Hacker Space Program</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>Opensource-solar.org is working on open hardware power supplies for off-grid applications. The systems consist of self-build solar panels, charge controllers with microcontroller, and LiFePo4 rechargeable batteries. Green energy for your gadgets !</abstract>
+        <description>A photovoltaic based power supply for small devices is especially useful if an electricity grid is unavailable, if cabling is inconvenient, and in emergency situations. 
+Opensource-solar.org designs modular open hardware photovoltaic power systems which can be incorporated in other projects. The focus is on micro-energy systems with less then 16 W. Examples for usage include LED lighting systems, cell-phone charging and power for wireless networks. 
+
+The goal is to make a very high quality system at a fraction of the cost of current systems. Currently it consists of a self-made solar panel build from solar cells, a MSP430 based charging and control module, and a rechargeable LiFePo4 battery. 
+
+The open hardware approach allows collaborative development, support and building instructions for users worldwide. This could be especially interesting for makers in Africa and other parts of the world without grid connectivity in rural areas. Success of photovoltaic based systems is slowed down by a scarcity of skilled people and high costs. Open source hardware and internet comunities can provide essential information for self-learning the required skills to assemble, develop and install such systems. 
+</description>
+        <persons>
+          <person id="3315">Moritz von Buttlar</person>
+        </persons>
+        <links>
+          <link href="http://www.opensource-solar.org">Project website</link>
+          <link href="http://">http://</link>
+        </links>
+      </event>
+      <event id="4443">
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>theres_gold_in_them_circuit_boards</slug>
+        <title>There's Gold in Them Circuit Boards</title>
+        <subtitle>Why E-Waste Recycling Is Smart and How To Make It Smarter</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Everything we do as technologists depends on the critical minerals from which our devices are made.  Recycling junk electronics is no longer just the right thing to do, it's the smart thing to do.</abstract>
+        <description>Everything we do as technologists depends on the critical minerals from which our devices are made.  From iron, aluminum and plastic, to gold, coltan and rare earth metals impact, these raw materials affect the availability and price of the electronics we use all the time.  What happens at the end of their useful lives?
+
+By now, the problems with electronic waste are well known:  Recycling is difficult and expensive, and exportation of junk electronics from rich to poor nations incentivizes informal recycling that is incredibly dangerous to workers and harmful to the environment.  But with extreme monopolization of certain mineral markets, particularly China's domination of the rare earths market, recycling has ceased to be simply a good thing to do, and now provides an economic hedge against volatile commodities markets.
+
+This talk will be an update of a talk I gave at The Next Hope (July, 2010, New York City, link below) and will outline the e-waste problem and how both regulations and materials innovation in places like the EU and Japan have put them ahead of the manufacturing curve, with special emphasis on rare earth elements.  Any specific questions from economics to chemistry that are sent in advance, will be researched and answered the best I can.  I work at a research university so there are lots of smart people to ask.  A draft of my capstone paper is available if you'd like to take a closer look at how I approach the topic.  Please note that the paper linked below is a draft...the final draft is due May 3, after the deadline for talk submissions!
+
+Talk image is courtesy of Greenpeace.</description>
+        <persons>
+          <person id="3317">Steph Alarcon</person>
+        </persons>
+        <links>
+          <link href="http://www.scribd.com/doc/34887786/Electronic-Waste-What-s-Here-and-What-s-Next-by-Stephanie-Alarcon"> HOPE talk, Electronic Waste:  What's Here and What's Next</link>
+          <link href="http://www.stephalarcon.org/capstone/alarcon-poster3.pdf">Link to a poster summarizing my paper:</link>
+          <link href="http://www.stephalarcon.org/capstone/capstone-alarcon.pdf">Draft of capstone paper</link>
+        </links>
+      </event>
+      <event id="4428">
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>the_joy_of_intellectual_vampirism</slug>
+        <title>The Joy of Intellectual Vampirism</title>
+        <subtitle>Mindfucking with Shared Information</subtitle>
+        <track>Culture</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>What makes us gravitate towards other people? In Intellectual Vampires it is the craving for fresh ideas, and in Intellectual Fangbangers it is the joy of sharing them. A talk on the fine art of communication, channels, contexts, and language.</abstract>
+        <description>It was Charlaine Harris, author of The Sookie Stackhouse Novels behind the TV series True Blood, who portrayed vampirism as something potentially mutually enriching for both the sucker and the suckee. Intellectual Vampires need fresh ideas. They crave them, they seek inspiring people, feed on them, and leave as soon as there is nothing new to be learned. Their willing mindfuck partners are Intellectual Fangbangers who volunteer in providing for new ideas, take pleasure in sharing them, and see them evolve in emerging new contexts.
+
+Given that the human mind is all about information flow, interesting patterns emerge if IV/IFB thinking is applied to human relations in all walks of life. Which channels do we employ and what encodings do we use? Can we use them more efficiently? What does the Internet change? Why is secrecy harmful and transparency, openness, and honesty so compellingly satisfying? How do relationships evolve over time? Does intelligence matter? And what makes for mutually pleasing IV/IFB connections?</description>
+        <persons>
+          <person id="691">Christiane Ruetten</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4589">
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug></slug>
+        <title>tbd</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>lecture</type>
+        <language></language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id="797">Caspar Bowden</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4594">
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>from_oscar_1_to_mars_and_beyond</slug>
+        <title>From OSCAR 1 to Mars and beyond</title>
+        <subtitle>Amateur Space Exploration &#8211; The last 50 years, now, and the future</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Radio amateurs have been building and operating satellites for almost fifty years now, and we are aiming for more.
+In this talk, I'll present who AMSAT is, what we have achieved in the last fifty years, and what we are working on now.
+</abstract>
+        <description>Back in the 1960's, radio amateurs seized the opportunity of launching a satellite into space. It would not be the only one; we are approaching OSCAR 70 now.
+Building satellites has always been challenging and involves using technology in creative ways. I'll cover some of the more fascinating cases, including some lessons learned during the process.
+In addition to the satellites in earth orbit, we are also aiming for Mars, and I'll show what are doing to get there.
+</description>
+        <persons>
+          <person id="3381">Mario Lorenz</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="Baikonur">
+      <event id="4461">
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>post_privacy_und_darueber_hinaus</slug>
+        <title>Post-Privacy und dar&#252;ber hinaus</title>
+        <subtitle>Was, wenn wir alle nackt w&#228;ren?</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Was passiert wenn wir die Idee der Sozialen Netze weiter spinnen und von einer Gesellschaft ausgehen, in der jeder alles &#252;ber jeden wei&#223;?
+M&#246;gliche Szenarien sollen hier an Situationen und Gesellschaftlichen Strukturen erl&#228;utert werden.</abstract>
+        <description>
+
+Die meisten der hier beschriebenen Entwicklungen haben bereits durch die Einf&#252;hrung des Telefons und des Internets, insbesondere Social Networks begonnen, diese Gedanken werden hier nur weiter gef&#252;hrt, da unabsehbares unabsehbar ist.
+
+Den Grundstein in diesem Szenario sehe ich in der Selbstexposition der Menschen. Dies geschieht seit Facebook und Co. nicht mehr nur Fremdbestimmt durch die Medien, sondern nun auch aktiv durch eigene Entscheidungen und kann (noch) in ihrer Art und Weise bestimmt werden. Die Bildung einer Marke "Ich" TM wird in den Rahmen der M&#246;glichkeiten jedes einzelnen Menschen mit Breitbandanschluss ger&#252;ckt.
+
+In diesem Vortrag soll es nun darum gehen, was passieren k&#246;nnte wenn diese Ideen konsequent weitergedacht werden und bald jeder alles &#252;ber jeden wei&#223;. Als Kanal der Informationsverbreitung stellen wir uns zum Beispiel neurale, in einem vermaschten Netz verbundene Implantate in den K&#246;pfen der Menschen vor die alle Gedanken und alles Wissen zug&#228;nglich machen. Diese sollen nur Informationen zug&#228;nglich machen, nicht das Verhalten direkt beeinflussen. Dadurch soll Missbrauch von zentraler Stelle vorgebeugt werden.
+
+Zur Erl&#228;uterung m&#246;chte ich nun die m&#246;glichen Auswirkungen auf einige Situationen und Gesellschaftlichen Strukturen beleuchten. Vom heutigen Standpunkt positive &#196;nderungen sind unter Pro, negative unter Contra zusammengefasst.
+
+Generelle &#196;nderungen:
+
+Pro:
+- Fehler von allen Menschen werden bekannt, die Gesellschaft lernt
+  damit besser umzugehen. Auch von vorher nicht publizierten Fehlern
+  kann nun gelernt und eine Wiederholung vermieden werden.
+- Das ganze Spektrum an Sozialen, Sexuellen und anderen Vorlieben sowie
+  Politischen, Ethischen, Wissenschaftlichen und sonstigen Meinungen
+  wird der Gesellschaft bekannt. Ebenso die Verbreitung all jener
+  innerhalb der Bev&#246;lkerung. Die Kette aus Unwissenheit, Angst und
+  Verurteilung wird dadurch aufgebrochen. Hetze gegen einzelne Gruppen
+  wird schwieriger, im besten Falle wird das Bed&#252;rfnis daf&#252;r
+  aussterben.
+    - Die Intention zur Gewalt zu kennen ist eine gute Grundlage zu Pr&#228;vention.
+
+Contra:
+- Teilweise bis vollst&#228;ndige Entindividualisierung der Einzelnen
+  m&#246;glich. Zugriff auf alle Informationen bedeutet f&#252;r alle Zugriff auf
+  die selben Informationen.
+Politik (falls Demokratie in &#228;hnlicher Form weiterbesteht):
+
+Pro:
+- Wahlversprechen ohne Umsetzungsabsicht werden verschwinden.
+- Skandale werden im Vorfeld unterbunden, da Probleme innerhalb des
+  politischen Systems nicht mehr verheimlicht werden k&#246;nnen.
+- Mehr Inbezugnahme der Bev&#246;lkerung, da Interessen ausf&#252;hrlicher
+  bekannt. Nichtbeachtung w&#252;rde sofort bekannt werden und zu R&#252;ckgang
+  der W&#228;hlerstimmen f&#252;hren.
+- Kriege w&#252;rden im Keim erstickt werden, da so geartete Absichten
+  sofort weltweit bekannt werden.
+Partnerschaft:
+
+Pro: 
+- Mensch findet leichter Partner mit &#228;hnlichen Werten und kompatiblem
+  Charakter.
+- Fremdgehen k&#246;nnte nicht mehr existieren, Probleme dieser Art werden
+  offensichtlich und verlangen direkte Konfrontation. Polyamor&#246;se
+  Beziehungsmodelle werden wahrscheinlicher und einfacher in das Leben
+  aller beteiligten zu Integrieren.
+
+Contra:
+- M&#246;glicherweise "&#252;berkompatible" Paarbildung oder Mehrfachbeziehungen,
+  dadurch weniger Reibungspunkte und Streit, weniger Lernm&#246;glichkeiten
+  f&#252;r pers&#246;nliches Wachstum.
+Freundschaften/Bekanntschaften:
+
+Pro:
+- Mensch findet leichter Menschen mit &#228;hnlichen Werten, Interessen und
+  kompatiblem Charakter.
+    - Sozialangst wird abgebaut, da es zwar unausgesprochene, aber nicht
+      unbekannte Gedanken gibt.
+    - Der Lebenslauf aller Personen in einem sozialen Gef&#252;ge ist bekannt.
+
+Contra:
+- Gruppenbildung innerhalb von bestimmten Interessensgebieten k&#246;nnte
+  verst&#228;rkt werden, m&#246;gliche Verbreitung von "Fachidiotentum" in der
+  Bev&#246;lkerung.
+    - Sofern verschiedene Sprachen noch Relevanz haben: Da die Mitglieder
+  einzelner Sprachgruppen leichter zueinander finden, k&#246;nnte die
+  Motivation sinken andere Sprachen zu lernen. &#196;hnliches gilt f&#252;r 
+      gesellschaftliche Schichten und kulturelle Kreise.
+Arbeit:
+
+Pro:    
+- Da sowohl F&#228;higkeiten als auch Anforderungen umfassend bekannt sind
+  bessere Kompatibilit&#228;t zwischen Arbeit und Arbeitnehmer in nicht
+  Selbstst&#228;ndigen Arbeitsverh&#228;ltnissen. Bessere Kompatibilit&#228;t zwischen
+  Auftrag und Auftragnehmer in Selbstst&#228;ndigen Arbeitsverh&#228;ltnissen.
+- Gro&#223;e Fehler die gemacht wurden werden allen, auch zuk&#252;nftigen
+  Arbeit- oder Auftraggebern bekannt. Da aber jeder Fehler macht, wird
+  die Gesellschaft lernen damit umzugehen.
+
+Fazit: Das Wissen &#252;ber alle Gedanken und Lebensl&#228;ufe muss zu gr&#246;&#223;ter Offenheit und Angstabbau f&#252;hren, da die Gesellschaft sonst nicht mehr funktionieren k&#246;nnte. Gewalt und L&#252;gen w&#252;rden an sich keinen Zweck mehr erf&#252;llen. Dies ist ein weiterer wichtiger Schritt der Menschheit in Richtung Funktion als Kollektiv, was zum Wohle aller w&#228;re.
+</description>
+        <persons>
+          <person id="3320">Daniel Reusche</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4550">
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>learning_secrets_by_watching_people</slug>
+        <title>Learning Secrets by Watching People</title>
+        <subtitle>Gesture, Expression, and Behavior Analysis for Hackers</subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>If someone has a secret in their head, that secret may be visible in how they move, the expressions they make, and the actions they take -- even the person is trying to conceal the secret. This talk will cover ways to read those outward signs.</abstract>
+        <description>Microexpressions, body language, verbal tics, even the assumptions people make in the course of a conversation reflect what's going on in their head. While it's nearly impossible to detect lies with 100% accuracy, understanding how to interpret these signs and indicators can give you something much better. Instead of focusing on whether a particular statement is a lie, we will focus on how to determine the underlying truth regardless of what the person is saying.</description>
+        <persons>
+          <person id="3350">spoolpin</person>
+        </persons>
+        <links>
+          <link href="http://www.social-engineer.org/framework/Psychological_Principles:_Micro-Expressions">Social Engineering Toolkit: Micro Expressios</link>
+          <link href="http://www.cio.com/article/facial-expressions-test">Facial Expressions Test</link>
+          <link href="http://social-engineer.org/wiki/archives/BecomeSuccessElicit/dodpi-interrogation.pdf">DoD Poloygraph Institute: Interviewing and Interrogation</link>
+          <link href="http://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294/">What Every Body is Saying (Amazon link)</link>
+          <link href="http://www.amazon.com/Just-2-Seconds-Gavin-Becker/dp/0615214479/">Just 2 Seconds (Amazon link)</link>
+          <link href="http://www.amazon.com/Essentials-Reid-Technique-Interrogations-Confessions/dp/0763727288/">Essentials of the Reid Technique: Criminal Interrogation and Confessions (Amazon link)</link>
+          <link href="http://www.amazon.com/gp/product/097213560X/">Confidential: Business Secrets - Getting Theirs, Keeping Yours (Amazon link)</link>
+          <link href="http://www.behavioradvisor.com/FBA.html">Functional Behavior Analysis</link>
+        </links>
+      </event>
+      <event id="4424">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>poker_bots</slug>
+        <title>Poker bots</title>
+        <subtitle>Developing and running autonomous pokerbots at online casinos</subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>For a few years I was part of a team that developed and ran autonomous poker playing robots on commercial Internet poker sites; playing poker with real money against real people in real time. The project failed...</abstract>
+        <description>At first glance, Texas hold'em poker does seem like a fairly simple game. Developing poker playing software can be done and has been done, and there are rumors on the Internet about poker playing robots winning millions online. There are even some commercial poker playing software available on the Internet. 
+
+But building a functional poker bot have two major parts; firstly integration with the online poker site, and secondly developing software capable of winning against human opponents in Texas hold'em poker. Contrary to popular belief, the first part is easy and the second part is hard. 
+
+Texas hold'em provides a programming challenge extraordinaire because its an imperfect information game paired with lots of randomness and psychology. Only small pieces of information is available at a given time, and the available information is biased and often deceptive. The complete game-tree Texas hold'em poker is so large that its infeasible to calculate even offline, and impossible to do in real-time, a feat necessary for online game-play.
+ 
+
+
+
+</description>
+        <persons>
+          <person id="1446">Torbj&#246;rn Lofterud</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4506">
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>wie_finanziere_ich_eine_mondmission</slug>
+        <title>Wie finanziere ich eine Mondmission?</title>
+        <subtitle>Von W&#252;rstchen verkaufen bis Ballonfl&#252;ge &#8211; ein Erfahrungsbericht.</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Jeder von uns kennt das Problem: Da hat man ein motiviertes Team an der Hand und einen fertigen Mondrover in der Garage stehen, aber wie immer fehlt das Geld f&#252;r die Rakete, mit welcher der Rover auf den Mond bef&#246;rdert werden soll!</abstract>
+        <description>Jeder von uns kennt das Problem: Da hat man ein motiviertes Team an der Hand und einen fertigen Mondrover in der Garage stehen, aber wie immer fehlt das Geld f&#252;r die Rakete, mit welcher der Rover auf den Mond bef&#246;rdert werden soll!
+Da ist guter Rat nat&#252;rlich teuer, und es stellt sich die Frage: Wie finanziere ich (m)eine Mondmission?
+
+In einem kurzen Talk wird Robert, Team-Leader der Part-Time Scientists, euch erz&#228;hlen, wie man eine Mondmission finanziert &#8211; und wie nicht.</description>
+        <persons>
+          <person id="3359">Robert B&#246;hme</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4497">
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>a_short_history_of_ipv4</slug>
+        <title>A short history of IPv4</title>
+        <subtitle></subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>A few short weeks ago, APNIC's supply of IPv4 address space reached depletion. ARIN and the RIPE NCC will follow soon, most likely somewhere this year. In this talk I will discuss the history of the internet as seen from the point of view of the RIRs.</abstract>
+        <description></description>
+        <persons>
+          <person id="3314">Djinh</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4575">
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>mursat</slug>
+        <title>mur.sat</title>
+        <subtitle>A (Hacker) Space Art Project</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>In 2011, mur.at will have a nano satellite launched into a low earth orbit (310 km above the surface of our planet). The satellite itself is the evolved descendant of a TubeSat personal satellite kit from Interorbital Systems. mur.sat is a joint venture of mur.at, ESC im Labor and realraum.</abstract>
+        <description>A team of about 15 people around mur.at (Graz/Austria) builds its first picosatellite called mursat1, based on the knowledge of Interorbital Systems, IOS, and developped further following our research requests. In 2011, mursat1 will be sent into space. We expand Public Space - noncommercial, noninstitutional, experimental, researching and exploring - to see, hear, test, send, receive, and perform. 
+
+In the timespan of one century, the space outside earth has been integrated smoothly and without friction into economic utilization processes. In order to counterbalance economical procedures that have been employed in the exploration and investigation of space, we vindicate the right to explore and investigate for ourselves. We claim "the" space as "public" space, in which other projections, wishes, concerns, desires, purposes and undertakings of different matter have authority and entitlement. With the move out into space, mur.sat takes the opportunity to analyse earth from outside. With the development of TubeSat, it has become relatively easy and affordable to send out our own research device. Adding some technical know how, we are able to define a set of tasks that mur.sat should fulfill during his short life time.
+In some ways, this current situation now is comparable with the 1980ies, beginning of 1990ies, when artists experimented with connected computers, what is now mostly known as world-wide-web/internet. The excitement is found in exploring new spaces, and getting to know and understand them. Probably one of the main attractions lies in the fact, that in unknown spaces one can formulate new hypothesis and try to find out and explore by one's own wish and curiosity. The strength and empowerment that lies in this possibility, is the subjective approach of individuals - noone can say beforehand if a certain question is relevant. It is also very likely that new questions will come up due to intense work on the matter during the work itself.
+
+At this stage (summer 2011) mursat1 itself will become our performer, taking selfportraits with a camera, transmitting data about his position relative to earth by torquers, receiving and translating particle detection and collision with a piezo microphone, sending compressed audiodata for radio transmission on earth, hosting children's wishes to become a shooting star themselves, counting.
+
+On earth, in the space center in Graz, and optionally on all other sorts of locations, available data will be received and interpreted, in sound, light, temperature installations, to create his sensation of NOW, of present time, and of connectedness to this expansion and extension that surrounds us.
+Why should only economically potent entities like states or companies be entitled to develop the imagery and broadcast (and thereby define) the ways of perception of the outer world, and of the representations of earth and the universe?</description>
+        <persons>
+          <person id="3367">Bernhard Tittelbach</person>
+          <person id="1187">equinox</person>
+        </persons>
+        <links>
+          <link href="http://sat.mur.at">Homepage</link>
+          <link href="https://wiki.mur.at/sat/">Project Wiki</link>
+          <link href="https://wiki.mur.at/sat/FrontPage?action=AttachFile&amp;do=view&amp;target=mursat1-linuxtag-Handout.pdf">lecture about subject at Linuxtage Graz</link>
+        </links>
+      </event>
+      <event id="4439">
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>maching_to_machine_security</slug>
+        <title>Machine-to-machine (M2M) security</title>
+        <subtitle>When physical security depends on IT security</subtitle>
+        <track>Hacking</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Today, more and more real-world things and machines are equipped with some kind of connection back home to the vendor. Such machine-to-machine (M2M) communication is often poorly secured and some day, the shit will hit the fan!</abstract>
+        <description>Due to the wide availability of broadband internet and mobile communication, the number of embedded systems that come with a network connection is constantly increasing. These devices are ubiquitous and used in a wide range of applications: smart grid, building management, surveillance, traffic control and individual vehicles.
+
+Those embedded devices are often poorly secured, if at all. But things get a lot worse: Vendors often don't take into account, that a device might get compromised, thus giving the attacker access to their network. 
+
+This talk will give an overview over general machine-to-machine (M2M) communications and corresponding attack scenarios. In addition to wired systems, wireless systems will be considered. Of the latter, GSM based systems are the most interesting.
+Several ways to attack an embedded device, extract secret data and gain network access will be shown.
+
+Finally, some good and bad attempts to enhance the security of M2M systems will be presented.
+</description>
+        <persons>
+          <person id="2637">hunz</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4491">
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>rethinking_online_news</slug>
+        <title>Rethinking online news</title>
+        <subtitle>Journalism needs hackers to survive</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Journalism needs hackers to survive.
+We present our project to revolutionize online news and encourage you to start your own.</abstract>
+        <description>The traditional business models and distribution strategies of journalism are dying, while at the same time the disruptive potential of modern technology remains largely untapped: The most popular online news sources are still deeply entrenched in concepts carried over from their print history and thus shaped by that medium's limitations.
+
+We're here to recruit you to combine your superpowers with those of journalists and designers to form an unstoppable alliance to both disrupt ineffective traditional news sources by doing a better job and be ready to replace their function in society as they die.
+
+Setting an example, our team based out of the Viennese hacker space Metalab is currently working on founding a new online-only medium with an innovative structure to replace the traditional concept of articles. We will develop open source software and experiment with new journalistic processes to fit that structure, and publish all results in the public domain.
+
+We'll challenge you with some unsolved issues, list some opportunities and give pointers to potential sources of funding.</description>
+        <persons>
+          <person id="3328">Christopher Clay / c3o</person>
+          <person id="2649">fin</person>
+        </persons>
+        <links>
+          <link href="http://c3o.org/lux">Sample Lux.at article</link>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day date="2011-08-14" index="5">
+    <room name="Kourou">
+      <event id="4495">
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>introduction_to_multicast_security</slug>
+        <title>Introduction to Multicast Security</title>
+        <subtitle>Beyond SSL/TLS</subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>For scaling real time applications multicast transport is the enabling technology. This event will present solutions for multicast security, that can be used for group conferencing and scaling data distribution services as transport layer security. Keywords: SRTP, AES-CM, Keystream, Multimedia Internet KEYing</abstract>
+        <description></description>
+        <persons>
+          <person id="3333">frehberg</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4455">
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>arguna</slug>
+        <title>The "Arguna" rocket family</title>
+        <subtitle>An overview of our recent sounding rocket campaigns</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>The "Arguna" rocket family consist of four one-stage sounding rockets that can reach altitudes up to 10km. We will present the designs of these rockets and discuss the performed flights and results from avionics experiments.</abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4411">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Kourou</room>
+        <slug>space_debris</slug>
+        <title>Space Debris</title>
+        <subtitle>Simulation of orbital debris and its impacts on space travel</subtitle>
+        <track>Hacker Space Program</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>This talk is about different sources of space debris and how they are a problem for current and future space travel. I'll introduce some of the computational models that are used to simulate space debris objects and some ideas to prevent them.</abstract>
+        <description>The environment around Earth is littered with different types of debris - some of natural origin, some human-made. They already pose a risk to spacecraft which will increase if nothing is done about the problem. I will introduce the different known sources of space debris. The objects' sizes range from several meters to only micrometers so it is impossible to detect most objects. Therefore the space debris environment has to be simulated to estimate current and future collision risks for spacecraft. Since we're talking millions of objects that have to be treated individually, a lot of computational power is required.
+Preventing space debris is a matter of global concern. Many proposals have been issued about how to achieve this; but especially the active removal of existing space debris objects is an open problem.</description>
+        <persons>
+          <person id="3272">Marek M&#246;ckel</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4554">
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Kourou</room>
+        <slug>closing_event</slug>
+        <title>Closing Event</title>
+        <subtitle>Good Bye and have a safe trip home!</subtitle>
+        <track>Misc</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="Baikonur">
+      <event id="4438">
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>dudle</slug>
+        <title>Dudle</title>
+        <subtitle>Mehrseitig sichere Web 2.0-Umfragen</subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>In diesem Vortrag wird eine Web-2.0-Applikation vorgestellt, mit der Umfragen durchgef&#252;hrt werden k&#246;nnen. Im Gegensatz zu anderen Anwendungen muss bei dieser dem Serveradministrator nicht vertraut werden. Die notwendigen kryptographischen Protokolle, welche f&#252;r die Vertrauensreduktion n&#246;tig sind, werden mit JavaScript durchgef&#252;hrt, was keinerlei clientseitige Installation n&#246;tig macht (zero-footprint).</abstract>
+        <description>Es existiert eine Vielzahl an Web-2.0-Applikationen, welche es einer Gruppe von Personen erm&#246;glichen, einen gemeinsamen Termin zu finden (z. B. doodle.com, moreganize.ch, whenisgood.net, agreeadate.com, meetomatic.com, etc.)
+Der Ablauf ist simpel: Ein Initiator legt eine Terminumfrage an und schickt den Link zu der Umfrage zu den potentiellen Teilnehmern. Nachdem jeder Teilnehmer der Anwendung seine Verf&#252;gbarkeiten mitgeteilt hat, kann anhand dieser Informationen ein Termin gefunden werden, der am besten passt.
+
+Die sogenannten &#8222;Verf&#252;gbarkeitspattern&#8220; beinhalten oft sensitive Informationen, die auf mindestens zwei Arten die Privatsph&#228;re beeintr&#228;chtigen. Zum einen k&#246;nnen Dritte direkt Daten &#252;ber das private Leben der Personen einsehen (&#8222;Wird mein Mann f&#252;r das Datum an unserem Hochzeitstag stimmen?&#8220;). Zum anderen k&#246;nnen Dritte diese Informationen mit anderen Informationsquellen verketten und dadurch m&#246;glicherweise Individuen identifizieren, die sonst anonym geblieben w&#228;ren (&#8222;Das Verf&#252;gbarkeitsmuster des Benutzers &#8222;flotter_hase23&#8220; sieht dem meines Arbeitskollegen aber verd&#228;chtig &#228;hnlich!&#8220;).
+
+Neben den Privacy-Problemen existieren bei allen bisherigen L&#246;sungen Sicherheitsprobleme. So erlauben die meisten Applikationen das &#196;ndern der Daten anderer, es ist m&#246;glich, dass man eine falsche Identit&#228;t vorgibt oder mehrfach abstimmt.
+
+In diesem Vortrag wird eine Web-2.0-Applikation vorgestellt, die es erlaubt, eine Terminabstimmung durchzuf&#252;hren und dabei dem Server so wenig wie m&#246;glich Vertrauen schenken zu m&#252;ssen. Das Vertrauen, welches anderen Teilnehmern der Terminabstimmung entgegengebracht werden muss, kann variabel von &#8222;alle d&#252;rfen alles&#8220; bis hin zu &#8222;ich vertraue niemandem&#8220; eingestellt werden.
+</description>
+        <persons>
+          <person id="1725">Benjamin Kellermann</person>
+        </persons>
+        <links>
+          <link href="https://dudle.inf.tu-dresden.de">Dudle Homepage</link>
+        </links>
+      </event>
+      <event id="4494">
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>laptop_and_electronics_searches_at_the_us_border</slug>
+        <title>Laptop and Electronics Searches at the U.S. Border</title>
+        <subtitle>A Privacy Guide for Travelers</subtitle>
+        <track>Society</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>The Electronic Frontier Foundation will discuss the legal situation that international travelers face when entering or leaving the United States, as well as various ways that travelers can safeguard electronic devices and digital information at the border.</abstract>
+        <description>A series of unfortunate court decisions allows border patrol agents to search travelers' laptops, mobile phones, and other digital devices without limitation at the United States border. Courts even allow agents to copy entire hard drives for no particular reason -- unlike domestic law enforcement, where civil liberties laws strictly regulate and limit search powers. These searches are relatively rare, but they continue to occur and could become more routine as computer forensics gets cheaper or agents develop new ways of targeting particular travelers. How can international travelers protect themselves when they enter the United States?
+
+Seth Schoen and Marcia Hofmann of the Electronic Frontier Foundation will present their latest research into protecting data during border crossings. Their white paper, "Laptop and Electronics Searches at the U.S. Border: A Privacy Guide for Travelers", will be unveiled at this presentation. It combines legal and technical perspectives, discussing the legal situation that international travelers face when entering or leaving the United States, as well as various ways that travelers can safeguard electronic devices and digital information at the border.
+
+Since border agents' powers are so extensive, our conclusions may not be happy ones; there is no magical technical or legal solution and all precautions and approaches still involve risks and tradeoffs. We hope that our work will provide a clear, up-to-date, and thorough overview of this issue for all travelers to the U.S.</description>
+        <persons>
+          <person id="1485">Seth Schoen</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="4445">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Baikonur</room>
+        <slug>data_mining_your_city</slug>
+        <title>Data Mining Your City</title>
+        <subtitle>Early lessons in open city data from Philadelphia, PA, USA</subtitle>
+        <track>Society</track>
+        <type>lightning</type>
+        <language>en</language>
+        <abstract>Philadelphia (USA) recently launched an initiative to open up tons of city records and municipal data.  This talk will review some of the things people are using it for, and show how open city data is useful to many kinds of people.</abstract>
+        <description>Philadelphia (USA) recently launched an initiative to open up tons of city records and municipal data.  By the time Camp rolls around, there will have been several hackathons and programs in Philadelphia using this newly available data, from a GIS firm to journalists to (probably) participants in Random Hacks of Kindness.  This talk will give a snapshot of how Philadelphians are using and benefiting from this data, what apps are coming out of it, how it helps citizens and city government alike.  If disadvantages are found they will also be discussed along, with some of the concerns that prevented the data from being available before.  Hopefully this talk will provide ideas for people in other places who want to use data to make their cities better, stronger, more just, more liveable/bikeable/walkable, and more fun all around.
+
+Information will come from my own participation in organizing Philadelphia's contribution to Random Hacks of Kindness in June, possibly another city--oriented hackathon the next weekend with partners from Seattle, WA, and from interviews with organizers and coders from other events using open city data.</description>
+        <persons>
+          <person id="3317">Steph Alarcon</person>
+        </persons>
+        <links>
+          <link href="http://www.opendataphilly.org/">Open Data Philly</link>
+          <link href="http://bcniphilly.com/2011/03/21/bcni-2011-open-gov-hackathon-presented-by-tropo-details-judges-criteria-data-and-more/">Another open data hackathon in April, 2011</link>
+          <link href="http://blog.tropo.com/2011/02/26/civic-hacking-in-philadelphia/">Blog post from a civic hacking event in Feb, 2011</link>
+        </links>
+      </event>
+    </room>
+  </day>
+</schedule>
